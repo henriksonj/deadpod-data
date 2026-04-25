@@ -1,5 +1,27 @@
 [
   {
+    "url": "https://deadshow.blogspot.com/2026/04/dead-showpodcast-for-42426.html",
+    "published": "2026-04-24",
+    "show_date": "1987-04-11",
+    "title": "Dead Show/podcast for 4/24/26",
+    "artist": "Grateful Dead",
+    "venue": "UIC Pavilion - University of Illinois",
+    "city": "Chicago, IL",
+    "songs": [
+      "Touch Of Grey",
+      "Man Smart (Woman Smarter)",
+      "Terrapin Station",
+      "Drums",
+      "Space [6:48#]",
+      "Truckin'",
+      "Wharf Rat",
+      "Throwing Stones",
+      "Not Fade Away",
+      "Not Fade Away [ 0:52]",
+      "Black Muddy River"
+    ]
+  },
+  {
     "url": "https://deadshow.blogspot.com/2026/04/dead-showpodcast-for-41726.html",
     "published": "2026-04-17",
     "show_date": "1987-04-11",
@@ -249,7 +271,7 @@
     "show_date": "1970-01-16",
     "title": "Dead Show/podcast for 1/9/26",
     "artist": "Grateful Dead",
-    "venue": "Springer's Inn",
+    "venue": "",
     "city": "Portland, OR",
     "songs": [
       "--Set 1--",
@@ -356,8 +378,8 @@
     "show_date": "1970-07-30",
     "title": "Dead Show/podcast for 11/27/25",
     "artist": "Grateful Dead",
-    "venue": "San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "San Francisco, CA",
     "songs": [
       "To Lay Me Down",
       "Dire Wolf",
@@ -1012,8 +1034,8 @@
     "show_date": "",
     "title": "Dead Show/podcast for 4/11/25",
     "artist": "Grateful Dead",
-    "venue": "Greensboro Coliseum",
-    "city": "Greensboro, NC",
+    "venue": "",
+    "city": "Greensboro Coliseum - Greensboro, NC",
     "songs": [
       "The tight opening China",
       "China Cat Sunflower",
@@ -1029,8 +1051,8 @@
     "show_date": "",
     "title": "Dead Show/podcast for 4/4/25",
     "artist": "Grateful Dead",
-    "venue": "Greensboro Coliseum",
-    "city": "Greensboro, NC",
+    "venue": "",
+    "city": "Greensboro Coliseum - Greensboro, NC",
     "songs": [
       "Jack Straw"
     ]
@@ -1345,8 +1367,8 @@
     "show_date": "1973-12-12",
     "title": "Dead Show/podcast for 12/20/24",
     "artist": "Grateful Dead",
-    "venue": "The Omni",
-    "city": "Atlanta, GA",
+    "venue": "",
+    "city": "The Omni Atlanta, GA",
     "songs": [
       "Mississippi Half-Step Uptown Toodeloo",
       "Me And Bobby McGee",
@@ -1370,8 +1392,8 @@
     "show_date": "1973-12-12",
     "title": "Dead Show/podcast for 12/13/24",
     "artist": "Grateful Dead",
-    "venue": "The Omni",
-    "city": "Atlanta, GA",
+    "venue": "",
+    "city": "The Omni Atlanta, GA",
     "songs": [
       "31:22]",
       "The Promised Land",
@@ -1653,7 +1675,7 @@
     "show_date": "1971-08-06",
     "title": "Dead Show/podcast for 8/16/24",
     "artist": "Grateful Dead",
-    "venue": "Hollywood Palladium",
+    "venue": "",
     "city": "Hollywood, CA",
     "songs": [
       "Saint Stephen",
@@ -1674,7 +1696,7 @@
     "show_date": "1971-08-06",
     "title": "Dead Show/podcast for 8/9/24",
     "artist": "Grateful Dead",
-    "venue": "Hollywood Palladium",
+    "venue": "",
     "city": "Hollywood, CA",
     "songs": [
       "Bertha",
@@ -1769,8 +1791,8 @@
     "show_date": "1984-07-07",
     "title": "Dead Show/podcast for 7/12/24",
     "artist": "Grateful Dead",
-    "venue": "Alpine Valley Music Theatre - East",
-    "city": "Troy, WI",
+    "venue": "",
+    "city": "Alpine Valley Music Theatre - East Troy, WI",
     "songs": [
       "China Doll",
       "Space",
@@ -1788,8 +1810,8 @@
     "show_date": "1984-07-07",
     "title": "Dead Show/podcast for 7/5/24",
     "artist": "Grateful Dead",
-    "venue": "Alpine Valley Music Theatre - East",
-    "city": "Troy, WI",
+    "venue": "",
+    "city": "Alpine Valley Music Theatre - East Troy, WI",
     "songs": [
       "Looks Like Rain"
     ]
@@ -2213,8 +2235,8 @@
     "show_date": "1970-01-30",
     "title": "Dead Show/podcast for 1/26/24",
     "artist": "Grateful Dead",
-    "venue": "The Warehouse New",
-    "city": "Orleans, LA",
+    "venue": "",
+    "city": "The Warehouse New Orleans, LA",
     "songs": [
       "Other One",
       "One - 1:33:00",
@@ -2277,8 +2299,8 @@
     "show_date": "",
     "title": "Dead Show/podcast for 1/5/24",
     "artist": "Grateful Dead",
-    "venue": "Oakland Coliseum Arena",
-    "city": "Oakland, CA",
+    "venue": "",
+    "city": "Oakland Coliseum Arena - Oakland, CA",
     "songs": [
       "Iko Iko",
       "Crazy Fingers",
@@ -2298,8 +2320,8 @@
     "show_date": "1989-12-27",
     "title": "Dead Show/podcast for 12/29/23",
     "artist": "Grateful Dead",
-    "venue": "Oakland Coliseum Arena",
-    "city": "Oakland, CA",
+    "venue": "",
+    "city": "Oakland Coliseum Arena - Oakland, CA",
     "songs": [
       "Me & My Uncle",
       "Bird Song"
@@ -2548,7 +2570,7 @@
     "show_date": "1972-09-09",
     "title": "Dead Show/podcast for 9/15/23",
     "artist": "Grateful Dead",
-    "venue": "Hollywood Palladium",
+    "venue": "",
     "city": "Hollywood, CA",
     "songs": [
       "China Cat Sunflower",
@@ -2572,7 +2594,7 @@
     "show_date": "1972-09-09",
     "title": "Dead Show/podcast for 9/8/23",
     "artist": "Grateful Dead",
-    "venue": "Hollywood Palladium",
+    "venue": "",
     "city": "Hollywood, CA",
     "songs": [
       "The Promised Land",
@@ -2921,7 +2943,7 @@
     "show_date": "1988-04-15",
     "title": "Dead Show/podcast for 4/28/23",
     "artist": "Grateful Dead",
-    "venue": "Rosemont Horizon",
+    "venue": "",
     "city": "Chicago, IL",
     "songs": [
       "Hell In A Bucket",
@@ -2943,7 +2965,7 @@
     "show_date": "1988-04-15",
     "title": "Dead Show/podcast for 4/21/23",
     "artist": "Grateful Dead",
-    "venue": "Rosemont Horizon",
+    "venue": "",
     "city": "Chicago, IL",
     "songs": [
       "I believe this is the only Scarlet",
@@ -3133,8 +3155,8 @@
     "show_date": "1970-02-28",
     "title": "Dead Show/podcast for 2/10/23",
     "artist": "Grateful Dead",
-    "venue": "San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "San Francisco, CA",
     "songs": [
       "Good Lovin'",
       "Drums",
@@ -3154,8 +3176,8 @@
     "show_date": "1970-02-28",
     "title": "Dead Show/podcast for 2/3/23",
     "artist": "Grateful Dead",
-    "venue": "San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "San Francisco, CA",
     "songs": [
       "Turn On Your Love Light [#12:47]",
       "Me And My Uncle",
@@ -3636,8 +3658,8 @@
     "show_date": "1976-07-13",
     "title": "Dead Show/podcast for 8/5/22",
     "artist": "Grateful Dead",
-    "venue": "Orpheum Theatre - San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "Orpheum Theatre - San Francisco, CA",
     "songs": [
       "The Music Never Stopped  %",
       "It Must Have Been The Roses  %",
@@ -3659,8 +3681,8 @@
     "show_date": "",
     "title": "Dead Show/podcast for 7/29/22",
     "artist": "Grateful Dead",
-    "venue": "Orpheum Theatre - San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "Orpheum Theatre - San Francisco, CA",
     "songs": [
       "Crazy Fingers",
       "Let It Grow",
@@ -4141,7 +4163,7 @@
     "show_date": "1969-02-21",
     "title": "Dead Show/podcast for 2/4/22",
     "artist": "Grateful Dead",
-    "venue": "Dream Bowl",
+    "venue": "",
     "city": "Vallejo, CA",
     "songs": [
       "Good Morning Little Schoolgirl [#12:41]",
@@ -4487,8 +4509,8 @@
     "show_date": "1994-10-14",
     "title": "Dead Show/podcast for 10/15/21",
     "artist": "Grateful Dead",
-    "venue": "Madison Square Garden New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Madison Square Garden New York, NY",
     "songs": [
       "Scarlet Begonias",
       "Fire On The Mountain",
@@ -4750,8 +4772,8 @@
     "show_date": "1990-07-23",
     "title": "Dead Show/podcast for 7/23/21",
     "artist": "Grateful Dead",
-    "venue": "Watkins",
-    "city": "Glen, NY",
+    "venue": "",
+    "city": "Watkins Glen, NY",
     "songs": [
       "The Promised Land",
       "Sugaree",
@@ -5198,8 +5220,8 @@
     "show_date": "1989-02-07",
     "title": "Dead Show/podcast for 2/19/21",
     "artist": "Grateful Dead",
-    "venue": "Henry J. Kaiser Convention Center",
-    "city": "Oakland, CA",
+    "venue": "",
+    "city": "Henry J. Kaiser Convention Center - Oakland, CA",
     "songs": [
       "Iko Iko",
       "Victim Or The Crime",
@@ -5218,8 +5240,8 @@
     "show_date": "1989-02-07",
     "title": "Dead Show/podcast for 2/12/21",
     "artist": "Grateful Dead",
-    "venue": "Henry J. Kaiser Convention Center",
-    "city": "Oakland, CA",
+    "venue": "",
+    "city": "Henry J. Kaiser Convention Center - Oakland, CA",
     "songs": [
       "Jack Straw",
       "Just A Little Light"
@@ -6068,8 +6090,8 @@
     "show_date": "1974-05-12",
     "title": "Dead Show/podcast for 5/8/20",
     "artist": "Grateful Dead",
-    "venue": "University of Nevada",
-    "city": "Reno, NV",
+    "venue": "",
+    "city": "University of Nevada Reno, NV",
     "songs": [
       "Mississippi Half-Step Uptown Toodeloo",
       "Truckin'",
@@ -6100,8 +6122,8 @@
     "show_date": "1989-12-10",
     "title": "Dead Show/podcast for 4/24/20",
     "artist": "Grateful Dead",
-    "venue": "Great Western Forum",
-    "city": "Inglewood, CA",
+    "venue": "",
+    "city": "Great Western Forum - Inglewood, CA",
     "songs": [
       "Jack Straw",
       "China Cat Sunflower",
@@ -6122,8 +6144,8 @@
     "show_date": "1989-12-12",
     "title": "Dead Show/podcast for 4/17/20",
     "artist": "Grateful Dead",
-    "venue": "Great Western Forum",
-    "city": "Inglewood, CA",
+    "venue": "",
+    "city": "Great Western Forum - Inglewood, CA",
     "songs": []
   },
   {
@@ -6604,8 +6626,8 @@
     "show_date": "1978-10-18",
     "title": "Dead Show/podcast for 10/25/18",
     "artist": "Grateful Dead",
-    "venue": "Winterland Arena San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "Winterland Arena San Francisco, CA",
     "songs": [
       "Bertha",
       "Good Lovin'",
@@ -6626,8 +6648,8 @@
     "show_date": "1978-10-18",
     "title": "Dead Show/podcast for 10/18/19",
     "artist": "Grateful Dead",
-    "venue": "Winterland Arena San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "Winterland Arena San Francisco, CA",
     "songs": [
       "Sugaree [#13:32]",
       "Me And My Uncle",
@@ -6689,8 +6711,8 @@
     "show_date": "1977-09-28",
     "title": "Dead Show/podcast for 9/27/19",
     "artist": "Grateful Dead",
-    "venue": "Paramount Theatre",
-    "city": "Seattle, WA",
+    "venue": "",
+    "city": "Paramount Theatre Seattle, WA",
     "songs": [
       "Tennessee Jed",
       "Passenger",
@@ -6716,8 +6738,8 @@
     "show_date": "1993-09-26",
     "title": "Dead Show/podcast for 9/20/19",
     "artist": "Grateful Dead",
-    "venue": "Boston Garden",
-    "city": "Boston, MA",
+    "venue": "",
+    "city": "Boston Garden Boston, MA",
     "songs": [
       "Iko Iko",
       "Ship Of Fools",
@@ -6732,8 +6754,8 @@
     "show_date": "1993-09-26",
     "title": "Dead Show/podcast for 9/13/19",
     "artist": "Grateful Dead",
-    "venue": "Boston Garden",
-    "city": "Boston, MA",
+    "venue": "",
+    "city": "Boston Garden Boston, MA",
     "songs": [
       "Jack Straw",
       "Althea",
@@ -6773,8 +6795,8 @@
     "show_date": "1979-09-01",
     "title": "Dead Show/podcast for 8/30/19",
     "artist": "Grateful Dead",
-    "venue": "Holleder Stadium",
-    "city": "Rochester, NY",
+    "venue": "",
+    "city": "Holleder Stadium Rochester, NY",
     "songs": [
       "Mississippi Half-Step Uptown Toodeloo",
       "Franklin's Tower",
@@ -6814,8 +6836,8 @@
     "show_date": "1987-08-16",
     "title": "Dead Show/podcast for 8/16/19",
     "artist": "Grateful Dead",
-    "venue": "Town Park",
-    "city": "Telluride, CO",
+    "venue": "",
+    "city": "Town Park Telluride, CO",
     "songs": [
       "Mississippi Half-Step Uptown Toodeloo",
       "Little Red Rooster",
@@ -6834,8 +6856,8 @@
     "show_date": "1969-08-03",
     "title": "Dead Show/podcast for 8/9/19",
     "artist": "Grateful Dead",
-    "venue": "San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "San Francisco, CA",
     "songs": [
       "Hard To Handle",
       "Beat It On Down The Line",
@@ -6854,8 +6876,8 @@
     "show_date": "1974-07-29",
     "title": "Dead Show/podcast for 8/2/19",
     "artist": "Grateful Dead",
-    "venue": "Capital Centre",
-    "city": "Landover, MD",
+    "venue": "",
+    "city": "Capital Centre Landover, MD",
     "songs": [
       "He's Gone",
       "Truckin'",
@@ -6935,8 +6957,8 @@
     "show_date": "1981-07-04",
     "title": "Dead Show/podcast for 7/5/19",
     "artist": "Grateful Dead",
-    "venue": "Manor Down",
-    "city": "Austin, TX",
+    "venue": "",
+    "city": "Manor Down Austin, TX",
     "songs": [
       "Feel Like A Stranger",
       "Bird Song",
@@ -6954,7 +6976,7 @@
     "show_date": "1981-07-04",
     "title": "Dead Show/podcast for 6/28/19",
     "artist": "Grateful Dead",
-    "venue": "Manor Downs",
+    "venue": "",
     "city": "Austin, TX",
     "songs": [
       "Jack Straw",
@@ -7028,8 +7050,8 @@
     "show_date": "1978-05-17",
     "title": "Dead Show/podcast for 6/7/19",
     "artist": "Grateful Dead",
-    "venue": "Uptown Theatre",
-    "city": "Chicago, IL",
+    "venue": "",
+    "city": "Uptown Theatre Chicago, IL",
     "songs": [
       "Samson And Delilah",
       "Friend Of The Devil",
@@ -7048,8 +7070,8 @@
     "show_date": "1978-05-17",
     "title": "Dead Show/podcast for 5/31/19",
     "artist": "Grateful Dead",
-    "venue": "Uptown Theatre",
-    "city": "Chicago, IL",
+    "venue": "",
+    "city": "Uptown Theatre Chicago, IL",
     "songs": [
       "Mississippi Half-Step Uptown Toodeloo",
       "Franklin's Tower",
@@ -7069,8 +7091,8 @@
     "show_date": "1991-05-12",
     "title": "Dead Show/podcast for 5/24/19",
     "artist": "Grateful Dead",
-    "venue": "Shoreline Amphitheater Mountain",
-    "city": "View, CA",
+    "venue": "",
+    "city": "Shoreline Amphitheater Mountain View, CA",
     "songs": [
       "Slip",
       "Help On The Way",
@@ -7108,8 +7130,8 @@
     "show_date": "1973-11-23",
     "title": "Dead Show/podcast for 5/10/19",
     "artist": "Grateful Dead",
-    "venue": "County Coliseum El",
-    "city": "Paso, TX",
+    "venue": "",
+    "city": "County Coliseum El Paso, TX",
     "songs": [
       "Greatest Story Ever Told",
       "Sugaree",
@@ -7157,8 +7179,8 @@
     "show_date": "1978-04-21",
     "title": "Dead Show/podcast for 4/26/19",
     "artist": "Grateful Dead",
-    "venue": "Rupp Arena",
-    "city": "Lexington, KY",
+    "venue": "",
+    "city": "Rupp Arena Lexington, KY",
     "songs": [
       "The Promised Land",
       "Dire Wolf",
@@ -7179,8 +7201,8 @@
     "show_date": "1983-04-23",
     "title": "Dead Show/podcast for 4/19/19",
     "artist": "Grateful Dead",
-    "venue": "New Haven Coliseum New",
-    "city": "Haven, CT",
+    "venue": "",
+    "city": "New Haven Coliseum New Haven, CT",
     "songs": [
       "Scarlet Begonias",
       "Fire On The Mountain",
@@ -7203,8 +7225,8 @@
     "show_date": "1983-04-23",
     "title": "Dead Show/podcast for 4/12/19",
     "artist": "Grateful Dead",
-    "venue": "New Haven Coliseum New",
-    "city": "Haven, CT",
+    "venue": "",
+    "city": "New Haven Coliseum New Haven, CT",
     "songs": [
       ") during 'Lightnin",
       "Alabama Getaway",
@@ -7225,8 +7247,8 @@
     "show_date": "1989-03-31",
     "title": "Dead Show/podcast for 4/5/19",
     "artist": "Grateful Dead",
-    "venue": "Greensboro Coliseum",
-    "city": "Greensboro, NC",
+    "venue": "",
+    "city": "Greensboro Coliseum Greensboro, NC",
     "songs": [
       "Hey Pocky Way",
       "Truckin'",
@@ -7244,8 +7266,8 @@
     "show_date": "1989-03-31",
     "title": "Dead Show/podcast for 3/29/19",
     "artist": "Grateful Dead",
-    "venue": "Greensboro Coliseum",
-    "city": "Greensboro, NC",
+    "venue": "",
+    "city": "Greensboro Coliseum Greensboro, NC",
     "songs": [
       "Hell In A Bucket",
       "Sugaree",
@@ -7263,8 +7285,8 @@
     "show_date": "1973-03-26",
     "title": "Dead Show/podcast for 3/22/19",
     "artist": "Grateful Dead",
-    "venue": "Baltimore Civic Center",
-    "city": "Baltimore, MD",
+    "venue": "",
+    "city": "Baltimore Civic Center Baltimore, MD",
     "songs": [
       "Ramble On Rose",
       "Big River",
@@ -7355,8 +7377,8 @@
     "show_date": "1977-02-27",
     "title": "Dead Show/podcast for 2/22/19",
     "artist": "Grateful Dead",
-    "venue": "Santa",
-    "city": "Barbara, CA",
+    "venue": "",
+    "city": "Santa Barbara, CA",
     "songs": [
       "Samson And Delilah",
       "Saint Stephen [#8:17]",
@@ -7374,8 +7396,8 @@
     "show_date": "1977-02-26",
     "title": "Dead Show/podcast for 2/15/19",
     "artist": "Grateful Dead",
-    "venue": "Santa",
-    "city": "Barbara, CA",
+    "venue": "",
+    "city": "Santa Barbara, CA",
     "songs": [
       "New Minglewood Blues",
       "Loser",
@@ -7574,8 +7596,8 @@
     "show_date": "1990-12-04",
     "title": "Dead Show/podcast for 12/14/18",
     "artist": "Grateful Dead",
-    "venue": "Oakland-Alameda County Coliseum Arena",
-    "city": "Oakland, CA",
+    "venue": "",
+    "city": "Oakland-Alameda County Coliseum Arena Oakland, CA",
     "songs": [
       "Two  [1:47:57]",
       "Eyes Of The World",
@@ -7597,8 +7619,8 @@
     "show_date": "1990-12-04",
     "title": "Deadshow/podcast for 12/7/18",
     "artist": "Grateful Dead",
-    "venue": "Oakland-Alameda County Coliseum Arena",
-    "city": "Oakland, CA",
+    "venue": "",
+    "city": "Oakland-Alameda County Coliseum Arena Oakland, CA",
     "songs": [
       "One - [1:10:58]",
       "Jack Straw",
@@ -7619,8 +7641,8 @@
     "show_date": "1971-11-14",
     "title": "Dead Show/podcast for 11/30/18",
     "artist": "Grateful Dead",
-    "venue": "Fort",
-    "city": "Worth, TX",
+    "venue": "",
+    "city": "Fort Worth, TX",
     "songs": [
       "Me and My Uncle",
       "Other One",
@@ -7651,8 +7673,8 @@
     "show_date": "1971-11-14",
     "title": "Dead Show/podcast for 11/16/18",
     "artist": "Grateful Dead",
-    "venue": "Fort",
-    "city": "Worth, TX",
+    "venue": "",
+    "city": "Fort Worth, TX",
     "songs": [
       "Bertha",
       "Beat It On Down The Line",
@@ -7818,8 +7840,8 @@
     "show_date": "1990-09-19",
     "title": "Dead Show/podcast for 9/21/18",
     "artist": "Grateful Dead",
-    "venue": "Madison Square Garden New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Madison Square Garden New York, NY",
     "songs": [
       "Two - [1:46:11]",
       "Ship Of Fools",
@@ -7842,8 +7864,8 @@
     "show_date": "1990-09-19",
     "title": "Dead Show/podcast for 9/14/18",
     "artist": "Grateful Dead",
-    "venue": "Madison Square Garden New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Madison Square Garden New York, NY",
     "songs": [
       "'Slip'",
       "'Frank'?",
@@ -7864,8 +7886,8 @@
     "show_date": "1967-09-03",
     "title": "Dead Show/podcast for 9/7/18",
     "artist": "Grateful Dead",
-    "venue": "Dance Hall Rio",
-    "city": "Nido, CA",
+    "venue": "",
+    "city": "Dance Hall Rio Nido, CA",
     "songs": [
       "In The Midnight Hour",
       "Dancing In The Streets",
@@ -7882,8 +7904,8 @@
     "show_date": "1972-08-24",
     "title": "Dead Show/podcast for 8/31/18",
     "artist": "Grateful Dead",
-    "venue": "Berkeley Community Theatre",
-    "city": "Berkeley, CA",
+    "venue": "",
+    "city": "Berkeley Community Theatre Berkeley, CA",
     "songs": [
       "Mississippi Half-Step Uptown Toodeloo",
       "Mexicali Blues",
@@ -7926,8 +7948,8 @@
     "show_date": "1974-08-06",
     "title": "Dead Show/podcast for 8/17/18",
     "artist": "Grateful Dead",
-    "venue": "Roosevelt Stadium Jersey",
-    "city": "City, NJ",
+    "venue": "",
+    "city": "Roosevelt Stadium Jersey City, NJ",
     "songs": [
       "Uncle John's Band",
       "El Paso",
@@ -7953,8 +7975,8 @@
     "show_date": "1974-08-06",
     "title": "Dead Show/podcast for 8/10/18",
     "artist": "Grateful Dead",
-    "venue": "Roosevelt Stadium Jersey",
-    "city": "City, NJ",
+    "venue": "",
+    "city": "Roosevelt Stadium Jersey City, NJ",
     "songs": [
       "Scarlet",
       "Playin' sandwich..",
@@ -8022,8 +8044,8 @@
     "show_date": "1984-07-13",
     "title": "Dead Show/podcast for 7/20/18",
     "artist": "Grateful Dead",
-    "venue": "Greek Theatre - University of California",
-    "city": "Berkeley, CA",
+    "venue": "",
+    "city": "Greek Theatre - University of California Berkeley, CA",
     "songs": [
       "Touch",
       "Scarlet Begonias",
@@ -8062,7 +8084,7 @@
     "show_date": "1974-06-22",
     "title": "Dead Show/podcast for 7/6/18",
     "artist": "Grateful Dead",
-    "venue": "Jai-Alai Fronton",
+    "venue": "",
     "city": "Miami, FL",
     "songs": [
       "China Cat Sunflower",
@@ -8082,8 +8104,8 @@
     "show_date": "1974-06-23",
     "title": "Dead Show/podcast for 6/29/18",
     "artist": "Grateful Dead",
-    "venue": "Jai-Alai Fronton",
-    "city": "Miami, FL",
+    "venue": "",
+    "city": "Jai-Alai Fronton Miami, FL",
     "songs": [
       "I'm especially fond of Phil here..",
       "The Promised Land",
@@ -8272,8 +8294,8 @@
     "show_date": "1977-04-23",
     "title": "Dead Show/podcast for 4/27/18",
     "artist": "Grateful Dead",
-    "venue": "Springfield Civic Center Arena",
-    "city": "Springfield, MA",
+    "venue": "",
+    "city": "Springfield Civic Center Arena Springfield, MA",
     "songs": [
       "Sugaree",
       "Cassidy",
@@ -8331,8 +8353,8 @@
     "show_date": "1987-03-30",
     "title": "Dead Show/podcast for 4/6/18",
     "artist": "Grateful Dead",
-    "venue": "The Spectrum",
-    "city": "Philadelphia, PA",
+    "venue": "",
+    "city": "The Spectrum Philadelphia, PA",
     "songs": [
       "Iko Iko",
       "Saint Of Circumstance",
@@ -8353,8 +8375,8 @@
     "show_date": "1987-03-30",
     "title": "Dead Show/podcast for 3/30/18",
     "artist": "Grateful Dead",
-    "venue": "The Spectrum",
-    "city": "Philadelphia, PA",
+    "venue": "",
+    "city": "The Spectrum - Philadelphia, PA",
     "songs": []
   },
   {
@@ -8363,8 +8385,8 @@
     "show_date": "1972-03-21",
     "title": "Dead Show/podcast for 3/23/18",
     "artist": "Grateful Dead",
-    "venue": "Academy of Music New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Academy of Music New York, NY",
     "songs": [
       "Intro",
       "Truckin'",
@@ -8387,8 +8409,8 @@
     "show_date": "1972-03-21",
     "title": "Dead Show/podcast for 3/16/18",
     "artist": "Grateful Dead",
-    "venue": "Academy of Music New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Academy of Music New York, NY",
     "songs": [
       "Bertha",
       "Black Throated Wind",
@@ -8517,8 +8539,8 @@
     "show_date": "1983-04-10",
     "title": "Dead Show/podcast for 1/26/18",
     "artist": "Grateful Dead",
-    "venue": "Coliseum - West Virginia University",
-    "city": "Morgantown, WV",
+    "venue": "",
+    "city": "Coliseum - West Virginia University Morgantown, WV",
     "songs": [
       "Samson And Delilah",
       "Friend Of The Devil",
@@ -8536,7 +8558,7 @@
     "show_date": "2016-12-29",
     "title": "Dead Show/podcast for 1/19/18",
     "artist": "Grateful Dead",
-    "venue": "Springer's Inn",
+    "venue": "",
     "city": "Portland, OR",
     "songs": [
       "Cumberland Blues [#4:13#] %",
@@ -8688,8 +8710,8 @@
     "show_date": "1979-11-29",
     "title": "Dead Show/podcast for 12/8/17",
     "artist": "Grateful Dead",
-    "venue": "Cleveland Public Auditorium",
-    "city": "Cleveland, OH",
+    "venue": "",
+    "city": "Cleveland Public Auditorium Cleveland, OH",
     "songs": [
       "Shakedown Street  -",
       "Samson And Delilah",
@@ -8710,8 +8732,8 @@
     "show_date": "1979-11-29",
     "title": "Dead Show/podcast for 12/1/79",
     "artist": "Grateful Dead",
-    "venue": "Cleveland Public Auditorium",
-    "city": "Cleveland, OH",
+    "venue": "",
+    "city": "Cleveland Public Auditorium Cleveland, OH",
     "songs": [
       "Alabama Getaway",
       "The Promised Land",
@@ -8755,7 +8777,7 @@
     "show_date": "1971-04-14",
     "title": "Dead Show/podcast for 11/17/17",
     "artist": "Grateful Dead",
-    "venue": "Davis Gym - Bucknell University",
+    "venue": "",
     "city": "Lewisburg, PA",
     "songs": [
       "The closing jam on 'Not Fade Away'-",
@@ -8778,7 +8800,7 @@
     "show_date": "1971-04-14",
     "title": "Dead Show/podcast for 11/10/17",
     "artist": "Grateful Dead",
-    "venue": "Davis Gym - Bucknell University",
+    "venue": "",
     "city": "Lewisburg, PA",
     "songs": [
       "Truckin'",
@@ -8909,8 +8931,8 @@
     "show_date": "1982-09-21",
     "title": "Dead Show/podcast for 9/29/17",
     "artist": "Grateful Dead",
-    "venue": "Madison Square Garden New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Madison Square Garden New York, NY",
     "songs": [
       "Touch Of Grey",
       "Samson And Delilah",
@@ -8930,8 +8952,8 @@
     "show_date": "1982-09-21",
     "title": "Dead Show/podcast for 9/22/17",
     "artist": "Grateful Dead",
-    "venue": "Madison Square Garden New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Madison Square Garden New York, NY",
     "songs": [
       "Crazy Fingers",
       "Me And My Uncle",
@@ -8974,8 +8996,8 @@
     "show_date": "1981-09-12",
     "title": "Dead show/podcast for 9/8/17",
     "artist": "Grateful Dead",
-    "venue": "Greek Theatre - University of California",
-    "city": "Berkeley, CA",
+    "venue": "",
+    "city": "Greek Theatre - University of California Berkeley, CA",
     "songs": [
       "Shakedown Street",
       "Greatest Story Ever Told",
@@ -9108,8 +9130,8 @@
     "show_date": "1972-07-25",
     "title": "Dead Show/podcast for 7/28/17",
     "artist": "Grateful Dead",
-    "venue": "Paramount Theatre",
-    "city": "Portland, OR",
+    "venue": "",
+    "city": "Paramount Theatre Portland, OR",
     "songs": [
       "The Promised Land",
       "Sugaree",
@@ -9132,8 +9154,8 @@
     "show_date": "1973-03-24",
     "title": "Dead Show/podcast for 7/21/17",
     "artist": "Grateful Dead",
-    "venue": "The Spectrum",
-    "city": "Philadelphia, PA",
+    "venue": "",
+    "city": "The Spectrum Philadelphia, PA",
     "songs": [
       "Two [1:27:42]",
       "The Promised Land",
@@ -9190,8 +9212,8 @@
     "show_date": "1989-06-21",
     "title": "Dead Show/podcast for 6/30/17",
     "artist": "Grateful Dead",
-    "venue": "Shoreline Amphitheatre Mountain",
-    "city": "View, CA",
+    "venue": "",
+    "city": "Shoreline Amphitheatre Mountain View, CA",
     "songs": [
       "Jam",
       "Hide Away",
@@ -9244,8 +9266,8 @@
     "show_date": "1976-06-19",
     "title": "Dead Show/podcast for 6/9/17",
     "artist": "Grateful Dead",
-    "venue": "Capitol Theatre",
-    "city": "Passaic, NJ",
+    "venue": "",
+    "city": "Capitol Theatre Passaic, NJ",
     "songs": [
       "Might As Well",
       "Samson And Delilah",
@@ -9267,8 +9289,8 @@
     "show_date": "1976-06-19",
     "title": "Dead Show/podcast for 6/2/17",
     "artist": "Grateful Dead",
-    "venue": "Capitol Theatre",
-    "city": "Passaic, NJ",
+    "venue": "",
+    "city": "Capitol Theatre Passaic, NJ",
     "songs": []
   },
   {
@@ -9277,8 +9299,8 @@
     "show_date": "",
     "title": "Dead Show/podcast for 5/26/17",
     "artist": "Grateful Dead",
-    "venue": "McArthur Court - University of Oregon",
-    "city": "Eugene, OR",
+    "venue": "",
+    "city": "McArthur Court - University of Oregon Eugene, OR",
     "songs": [
       "One - 1:35:43",
       "Hard To Handle",
@@ -9311,8 +9333,8 @@
     "show_date": "1977-05-05",
     "title": "Dead show/podcast for 5/19/17",
     "artist": "Grateful Dead",
-    "venue": "New Haven Coliseum New",
-    "city": "Haven, CT",
+    "venue": "",
+    "city": "New Haven Coliseum New Haven, CT",
     "songs": [
       "Bertha",
       "Estimated Prophet",
@@ -9360,8 +9382,8 @@
     "show_date": "1971-04-21",
     "title": "Dead Show/podcast for 4/28/17",
     "artist": "Grateful Dead",
-    "venue": "Rhode Island Auditorium",
-    "city": "Providence, RI",
+    "venue": "",
+    "city": "Rhode Island Auditorium Providence, RI",
     "songs": [
       "Casey Jones",
       "Mama Tried",
@@ -9395,8 +9417,8 @@
     "show_date": "1985-04-08",
     "title": "Dead Show/podcast for 4/14/17",
     "artist": "Grateful Dead",
-    "venue": "The Spectrum",
-    "city": "Philadelphia, PA",
+    "venue": "",
+    "city": "The Spectrum Philadelphia, PA",
     "songs": [
       "The rare 'Down In The Bottom-",
       "In The Midnight Hour",
@@ -9460,8 +9482,8 @@
     "show_date": "1973-03-31",
     "title": "Dead Show/podcast for 3/24/17",
     "artist": "Grateful Dead",
-    "venue": "War Memorial",
-    "city": "Buffalo, NY",
+    "venue": "",
+    "city": "War Memorial Buffalo, NY",
     "songs": [
       "The Promised Land -",
       "Bertha -",
@@ -9490,8 +9512,8 @@
     "show_date": "1981-03-10",
     "title": "Dead Show/podcast for 3/10/17",
     "artist": "Grateful Dead",
-    "venue": "Madison Square Garden New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Madison Square Garden New York, NY",
     "songs": [
       "Scarlet Begonias",
       "Fire On The Mountain",
@@ -9536,8 +9558,8 @@
     "show_date": "1993-02-23",
     "title": "Dead Show/podcast for 2/24/17",
     "artist": "Grateful Dead",
-    "venue": "Oakland-Alameda County Coliseum Arena",
-    "city": "Oakland, CA",
+    "venue": "",
+    "city": "Oakland-Alameda County Coliseum Arena Oakland, CA",
     "songs": [
       "Iko Iko",
       "Corrina",
@@ -9616,8 +9638,8 @@
     "show_date": "1970-01-03",
     "title": "Dead Show/podcast for 1/27/17",
     "artist": "Grateful Dead",
-    "venue": "Fillmore East - New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Fillmore East - New York, NY",
     "songs": [
       "China Cat Sunflower",
       "That's It For The Other One",
@@ -9777,8 +9799,8 @@
     "show_date": "1980-10-04",
     "title": "Dead Show/podcast for 11/25/16",
     "artist": "Grateful Dead",
-    "venue": "Warfield Theatre San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "Warfield Theatre San Francisco, CA",
     "songs": [
       "Deep Elem Blues",
       "The Race Is On",
@@ -9798,8 +9820,8 @@
     "show_date": "1972-11-14",
     "title": "Dead Show/podcast for 11/18/16",
     "artist": "Grateful Dead",
-    "venue": "Oklahoma City Music Hall Oklahoma",
-    "city": "City, OK",
+    "venue": "",
+    "city": "Oklahoma City Music Hall Oklahoma City, OK",
     "songs": [
       "The Promised Land",
       "Sugaree",
@@ -9909,8 +9931,8 @@
     "show_date": "1976-10-15",
     "title": "Dead/Show podcast for 10/14/16",
     "artist": "Grateful Dead",
-    "venue": "Shrine Auditorium Los",
-    "city": "Angeles, CA",
+    "venue": "",
+    "city": "Shrine Auditorium Los Angeles, CA",
     "songs": [
       "Might As Well  %",
       "Mama Tried  %",
@@ -9931,8 +9953,8 @@
     "show_date": "",
     "title": "Dead Show/podcast for 10/7/16",
     "artist": "Grateful Dead",
-    "venue": "Veterans Auditorium Santa",
-    "city": "Rosa, CA",
+    "venue": "",
+    "city": "Veterans Auditorium Santa Rosa, CA",
     "songs": [
       "One - 1:20:44",
       "Intro",
@@ -9960,8 +9982,8 @@
     "show_date": "",
     "title": "Dead Show/podcast for 9/30/16",
     "artist": "Grateful Dead",
-    "venue": "Madison Square Garden New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Madison Square Garden New York, NY",
     "songs": [
       "Easy Answers",
       "Lazy River Road",
@@ -9992,8 +10014,8 @@
     "show_date": "",
     "title": "Dead Show/podcast for 9/16/16",
     "artist": "Grateful Dead",
-    "venue": "Easttown Theatre",
-    "city": "Detroit, MI",
+    "venue": "",
+    "city": "Easttown Theatre Detroit, MI",
     "songs": [
       "Truckin'",
       "Ramble On Rose",
@@ -10011,8 +10033,8 @@
     "show_date": "1971-10-24",
     "title": "Dead Show/podcast for 9/9/16",
     "artist": "Grateful Dead",
-    "venue": "Easttown Theatre",
-    "city": "Detroit, MI",
+    "venue": "",
+    "city": "Easttown Theatre Detroit, MI",
     "songs": [
       "Sugar Magnolia",
       "Deal",
@@ -10263,8 +10285,8 @@
     "show_date": "",
     "title": "Dead Show/podcast for 5/13/16",
     "artist": "Grateful Dead",
-    "venue": "Cal Expo Amphitheatre",
-    "city": "Sacramento, CA",
+    "venue": "",
+    "city": "Cal Expo Amphitheatre Sacramento, CA",
     "songs": [
       "Scarlet Begonias",
       "Fire On The Mountain",
@@ -10639,8 +10661,8 @@
     "show_date": "1969-01-17",
     "title": "Dead Show/podcast for 1/8/16",
     "artist": "Grateful Dead",
-    "venue": "Robertson Gym, Univ of Santa Barbara",
-    "city": "Santa Barbara, CA",
+    "venue": "",
+    "city": "",
     "songs": [
       "One - 1:25:28",
       "Turn On Your Love Light [16:#32]",
@@ -10717,7 +10739,7 @@
     "show_date": "1980-11-29",
     "title": "Dead Show/podcast for 12/18/15",
     "artist": "Grateful Dead",
-    "venue": "Alligator Alley Gym - University of Florida",
+    "venue": "",
     "city": "Gainesville, FL",
     "songs": [
       "Shakedown Street",
@@ -10739,7 +10761,7 @@
     "show_date": "1980-11-30",
     "title": "Dead Show/podcast for 12/11/15",
     "artist": "Grateful Dead",
-    "venue": "Alligator Alley Gym - University of Florida",
+    "venue": "",
     "city": "Gainesville, FL",
     "songs": [
       "Alabama Getaway",
@@ -10912,8 +10934,8 @@
     "show_date": "1980-10-10",
     "title": "Dead Show/podcast for 10/9/15",
     "artist": "Grateful Dead",
-    "venue": "Warfield Theatre San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "Warfield Theatre San Francisco, CA",
     "songs": [
       "Franklin's Tower..",
       "On The Road Again",
@@ -10938,8 +10960,8 @@
     "show_date": "",
     "title": "Dead Show/podcast for 10/2/15",
     "artist": "Grateful Dead",
-    "venue": "Madison Square Garden New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Madison Square Garden New York, NY",
     "songs": [
       "Truckin'",
       "China Cat Sunflower",
@@ -10994,8 +11016,8 @@
     "show_date": "1971-08-14",
     "title": "Dead Show/podcast for 9/11/15",
     "artist": "Grateful Dead",
-    "venue": "Berkeley Community Theatre",
-    "city": "Berkeley, CA",
+    "venue": "",
+    "city": "Berkeley Community Theatre Berkeley, CA",
     "songs": [
       "Bertha",
       "Me And My Uncle",
@@ -11377,8 +11399,8 @@
     "show_date": "1971-03-18",
     "title": "Dead show/podcast for 3/13/15",
     "artist": "Grateful Dead",
-    "venue": "Fox Theatre St.",
-    "city": "Louis, MO",
+    "venue": "",
+    "city": "Fox Theatre St. Louis, MO",
     "songs": [
       "Truckin' [#6:41]",
       "The Other One",
@@ -11401,8 +11423,8 @@
     "show_date": "1971-03-18",
     "title": "Dead Show/podcast for 3/6/15",
     "artist": "Grateful Dead",
-    "venue": "Fox Theatre St.",
-    "city": "Louis, MO",
+    "venue": "",
+    "city": "Fox Theatre St. Louis, MO",
     "songs": [
       "Casey Jones",
       "Me And My Uncle",
@@ -11516,8 +11538,8 @@
     "show_date": "1969-12-31",
     "title": "Dead Show/podcast for 1/9/15",
     "artist": "Grateful Dead",
-    "venue": "Boston Tea Party",
-    "city": "Boston, MA",
+    "venue": "",
+    "city": "Boston Tea Party Boston, MA",
     "songs": [
       "Alligator -",
       "Drums  -",
@@ -11600,8 +11622,8 @@
     "show_date": "1970-01-31",
     "title": "Dead Show/podcast for 11/28/14",
     "artist": "Grateful Dead",
-    "venue": "The Warehouse New",
-    "city": "Orleans, LA",
+    "venue": "",
+    "city": "The Warehouse New Orleans, LA",
     "songs": [
       "One - 48:02",
       "Intro",
@@ -11931,8 +11953,8 @@
     "show_date": "1984-08-13",
     "title": "Dead Show/podcast for 6/27/14",
     "artist": "Garcia, Jerry (JGB)",
-    "venue": "Club Casino Ballroom - Hampton",
-    "city": "Beach, NH",
+    "venue": "",
+    "city": "Club Casino Ballroom - Hampton Beach, NH",
     "songs": [
       "//Cats Under The Stars",
       "//Knockin' On Heaven's Door",
@@ -11977,8 +11999,8 @@
     "show_date": "1970-06-06",
     "title": "Dead Show/podcast for 6/13/14",
     "artist": "Grateful Dead",
-    "venue": "Fillmore West - San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "Fillmore West - San Francisco, CA",
     "songs": [
       "Drums"
     ]
@@ -12145,8 +12167,8 @@
     "show_date": "1969-03-15",
     "title": "Dead Show/podcast for 3/14/14",
     "artist": "Grateful Dead",
-    "venue": "San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "San Francisco, CA",
     "songs": [
       "Dark Star",
       "Saint Stephen",
@@ -12181,8 +12203,8 @@
     "show_date": "1973-07-01",
     "title": "Dead Show/podcast for 2/21/14",
     "artist": "Grateful Dead",
-    "venue": "Universal Amphitheatre - Universal",
-    "city": "City, CA",
+    "venue": "",
+    "city": "Universal Amphitheatre - Universal City, CA",
     "songs": [
       "China Cat Sunflower -"
     ]
@@ -12251,8 +12273,8 @@
     "show_date": "1971-10-29",
     "title": "Dead Show/podcast for 1/17/14",
     "artist": "Grateful Dead",
-    "venue": "Allen Theatre",
-    "city": "Cleveland, OH",
+    "venue": "",
+    "city": "Allen Theatre Cleveland, OH",
     "songs": [
       "NFA-",
       "GDTRFB sandwich.. definitely a favorite!",
@@ -12278,8 +12300,8 @@
     "show_date": "1971-10-29",
     "title": "Dead Show/podcast for 1/10/13",
     "artist": "Grateful Dead",
-    "venue": "Allen Theatre",
-    "city": "Cleveland, OH",
+    "venue": "",
+    "city": "Allen Theatre Cleveland, OH",
     "songs": [
       "Set One",
       "Truckin'",
@@ -12398,8 +12420,8 @@
     "show_date": "1973-11-01",
     "title": "Dead Show/podcast for 11/15/13",
     "artist": "Grateful Dead",
-    "venue": "San Diego Sports Arena - San",
-    "city": "Diego, CA",
+    "venue": "",
+    "city": "San Diego Sports Arena - San Diego, CA",
     "songs": [
       "China Cat Sunflower"
     ]
@@ -12432,8 +12454,8 @@
     "show_date": "1987-11-07",
     "title": "Dead Show/podcast for 11/1/13",
     "artist": "Grateful Dead",
-    "venue": "Henry J. Kaiser Convention Center",
-    "city": "Oakland, CA",
+    "venue": "",
+    "city": "Henry J. Kaiser Convention Center - Oakland, CA",
     "songs": []
   },
   {
@@ -12535,8 +12557,8 @@
     "show_date": "1971-08-26",
     "title": "Dead Show/podcast for 9/13/13",
     "artist": "Grateful Dead",
-    "venue": "Gaelic Park - New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Gaelic Park - New York, NY",
     "songs": [
       "--Set 1--"
     ]
@@ -12714,8 +12736,8 @@
     "show_date": "",
     "title": "Dead Show/podcast for 6/7/13",
     "artist": "Grateful Dead",
-    "venue": "Fillmore East New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Fillmore East New York, NY",
     "songs": [
       "Dark Star",
       "25:24]",
@@ -12902,8 +12924,8 @@
     "show_date": "1969-06-08",
     "title": "Dead Show/podcast for 3/8/13",
     "artist": "Grateful Dead",
-    "venue": "Fillmore West - San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "Fillmore West - San Francisco, CA",
     "songs": [
       "Dancing In The Street -",
       "He Was A Friend Of Mine -",
@@ -12917,8 +12939,8 @@
     "show_date": "1978-03-19",
     "title": "Dead Show/podcast for 3/1/13",
     "artist": "Garcia, Jerry (JGB)",
-    "venue": "Stanley Theatre",
-    "city": "Pittsburgh, PA",
+    "venue": "",
+    "city": "Stanley Theatre - Pittsburgh, PA",
     "songs": []
   },
   {
@@ -12927,8 +12949,8 @@
     "show_date": "1980-03-01",
     "title": "Dead Show/podcast for 2/22/13",
     "artist": "Garcia, Jerry (JGB)",
-    "venue": "Stanley Theatre",
-    "city": "Pittsburgh, PA",
+    "venue": "",
+    "city": "Stanley Theatre - Pittsburgh, PA",
     "songs": [
       "drums"
     ]
@@ -13057,8 +13079,8 @@
     "show_date": "1980-09-25",
     "title": "Dead Show/podcast for 12/21/12",
     "artist": "Grateful Dead",
-    "venue": "Warfield Theatre - San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "Warfield Theatre - San Francisco, CA",
     "songs": [
       "Oh Babe It Ain't No Lie"
     ]
@@ -13069,8 +13091,8 @@
     "show_date": "1972-11-18",
     "title": "Dead Show/podcast for 12/14/12",
     "artist": "Grateful Dead",
-    "venue": "Hofheinz Pavilion",
-    "city": "Houston, TX",
+    "venue": "",
+    "city": "Hofheinz Pavilion - Houston, TX",
     "songs": [
       "Bertha -",
       "One More Saturday Night"
@@ -13082,8 +13104,8 @@
     "show_date": "1971-12-05",
     "title": "Dead Show/podcast for 12/7/12",
     "artist": "Grateful Dead",
-    "venue": "Felt Forum - Madison Square Garden - New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Felt Forum - Madison Square Garden - New York, NY",
     "songs": [
       "Goin' Down the Road-",
       "Set Two:",
@@ -13098,8 +13120,8 @@
     "show_date": "1971-12-05",
     "title": "Dead Show/podcast for 11/30/12",
     "artist": "Grateful Dead",
-    "venue": "Felt Forum",
-    "city": "New York, NY",
+    "venue": "Location: Felt Forum - Madison Square Garden - New York, NY",
+    "city": "",
     "songs": [
       "Casey Jones",
       "One More Saturday Night"
@@ -13111,8 +13133,8 @@
     "show_date": "1969-12-19",
     "title": "Dead Show/podcast for 11/23/12",
     "artist": "Grateful Dead",
-    "venue": "Fillmore Auditorium - San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "Fillmore Auditorium - San Francisco, CA",
     "songs": [
       "Cumberland Blues",
       "Good Lovin'",
@@ -13131,8 +13153,8 @@
     "show_date": "1989-09-29",
     "title": "Dead Show/podcast for 11/16/12",
     "artist": "Grateful Dead",
-    "venue": "Shoreline Amphitheatre - Mountain",
-    "city": "View, CA",
+    "venue": "",
+    "city": "Shoreline Amphitheatre - Mountain View, CA",
     "songs": [
       "China Cat Sunflower",
       "Terrapin Station",
@@ -13200,8 +13222,8 @@
     "show_date": "",
     "title": "Dead Show/podcast for 10/19/12",
     "artist": "Garcia, Jerry (JGB)",
-    "venue": "3-8-80",
-    "city": "The Stone, San Francisco, CA",
+    "venue": "",
+    "city": "",
     "songs": [
       "Eleanor Rigby-",
       "(set 1)",
@@ -13242,8 +13264,8 @@
     "show_date": "1976-10-01",
     "title": "Dead Show/podcast for 10/5/12",
     "artist": "Grateful Dead",
-    "venue": "Market Square Arena",
-    "city": "Indianapolis, IN",
+    "venue": "",
+    "city": "Market Square Arena - Indianapolis, IN",
     "songs": []
   },
   {
@@ -13424,8 +13446,8 @@
     "show_date": "1982-06-16",
     "title": "Dead Show podcast for 7/27/12",
     "artist": "Garcia, Jerry (JGB)",
-    "venue": "Music Mountain - South",
-    "city": "Fallsburg, NY",
+    "venue": "",
+    "city": "Music Mountain - South Fallsburg, NY",
     "songs": [
       "- Let It Rock -",
       "Bill Kreutzmann - drums",
@@ -13467,8 +13489,8 @@
     "show_date": "1990-07-06",
     "title": "Dead Show/podcast for 7/13/12",
     "artist": "Grateful Dead",
-    "venue": "Cardinal Stadium",
-    "city": "Louisville, KY",
+    "venue": "Location:  Cardinal Stadium - Louisville, KY",
+    "city": "",
     "songs": [
       "Set One:",
       "Hell In A Bucket",
@@ -13602,8 +13624,8 @@
     "show_date": "1993-05-16",
     "title": "Dead Show/podcast for 5/18/2012",
     "artist": "Grateful Dead",
-    "venue": "Sam Boyd Silver Bowl - Las",
-    "city": "Vegas, NV",
+    "venue": "",
+    "city": "Sam Boyd Silver Bowl - Las Vegas, NV",
     "songs": [
       "Slip-",
       "Help On The Way -",
@@ -13623,8 +13645,8 @@
     "show_date": "1993-05-16",
     "title": "Dead show/podcast for 5/11/12",
     "artist": "Grateful Dead",
-    "venue": "Sam Boyd Silver Bowl - Las",
-    "city": "Vegas, NV",
+    "venue": "",
+    "city": "Sam Boyd Silver Bowl - Las Vegas, NV",
     "songs": []
   },
   {
@@ -13633,8 +13655,8 @@
     "show_date": "1974-05-19",
     "title": "Dead Show/podcast for 5/4/12",
     "artist": "Grateful Dead",
-    "venue": "Portland Coliseum",
-    "city": "Portland, OR",
+    "venue": "",
+    "city": "Portland Coliseum - Portland, OR",
     "songs": [
       "Portland Coliseum - Portland, OR  Set 2:",
       "Promised Land",
@@ -13651,8 +13673,8 @@
     "show_date": "1974-05-19",
     "title": "Dead Show/podcast for 4/27/12",
     "artist": "Grateful Dead",
-    "venue": "Portland Coliseum",
-    "city": "Portland, OR",
+    "venue": "",
+    "city": "Portland Coliseum - Portland, OR",
     "songs": [
       "China Cat Sunflower -"
     ]
@@ -13678,8 +13700,8 @@
     "show_date": "1978-04-21",
     "title": "Dead show/podcast for 4/13/12",
     "artist": "Grateful Dead",
-    "venue": "Rupp Arena",
-    "city": "Lexington, KY",
+    "venue": "",
+    "city": "Rupp Arena - Lexington, KY",
     "songs": [
       "Drums -",
       "Jam -",
@@ -13693,8 +13715,8 @@
     "show_date": "1978-04-21",
     "title": "Dead show/podcast for 4/6/12",
     "artist": "Grateful Dead",
-    "venue": "Rupp Arena",
-    "city": "Lexington, KY",
+    "venue": "",
+    "city": "Rupp Arena - Lexington, KY",
     "songs": [
       "Mama Tried -"
     ]
@@ -13705,8 +13727,8 @@
     "show_date": "1987-03-31",
     "title": "Dead Show/podcast for 3/30/12",
     "artist": "Grateful Dead",
-    "venue": "The Spectrum",
-    "city": "Philadelphia, PA",
+    "venue": "",
+    "city": "The Spectrum - Philadelphia, PA",
     "songs": [
       "Set One:",
       "Jack Straw -",
@@ -13732,8 +13754,8 @@
     "show_date": "1990-03-16",
     "title": "Dead show/podcast for 3/16/12",
     "artist": "Grateful Dead",
-    "venue": "Capital Centre",
-    "city": "Landover, MD",
+    "venue": "",
+    "city": "Capital Centre - Landover, MD",
     "songs": [
       "Scarlet Begonias -",
       "Estimated Prophet -",
@@ -13751,8 +13773,8 @@
     "show_date": "1990-03-16",
     "title": "Dead show/podcast for 3/9/12",
     "artist": "Grateful Dead",
-    "venue": "Capital Centre",
-    "city": "Landover, MD",
+    "venue": "",
+    "city": "Capital Centre - Landover, MD",
     "songs": [
       "Set One:",
       "Good Times",
@@ -13800,8 +13822,8 @@
     "show_date": "1986-02-11",
     "title": "Dead show/podcast for 2/24/12",
     "artist": "Grateful Dead",
-    "venue": "Henry J. Kaiser Convention Center",
-    "city": "Oakland, CA",
+    "venue": "",
+    "city": "Henry J. Kaiser Convention Center - Oakland, CA",
     "songs": [
       "Drums -",
       "Eyes Of The World -",
@@ -13819,8 +13841,8 @@
     "show_date": "1986-02-11",
     "title": "Dead show/podcast for 2/17/12",
     "artist": "Grateful Dead",
-    "venue": "Henry J. Kaiser Convention Center",
-    "city": "Oakland, CA",
+    "venue": "",
+    "city": "Henry J. Kaiser Convention Center - Oakland, CA",
     "songs": [
       "Music Never Stopped-",
       "Might As Well..",
@@ -13861,8 +13883,8 @@
     "show_date": "1968-02-02",
     "title": "Dead Show/podcast for 1/27/12",
     "artist": "Grateful Dead",
-    "venue": "Crystal Ballroom",
-    "city": "Portland, OR",
+    "venue": "",
+    "city": "Crystal Ballroom - Portland, OR",
     "songs": [
       "That's It For The Other One -",
       "Clementine -",
@@ -13887,8 +13909,8 @@
     "show_date": "1993-05-26",
     "title": "Dead Show/podcast for 1/13/12",
     "artist": "Grateful Dead",
-    "venue": "Cal Expo Amphitheatre",
-    "city": "Sacramento, CA",
+    "venue": "",
+    "city": "Cal Expo Amphitheatre - Sacramento, CA",
     "songs": [
       "Box Of Rain",
       "Victim Or The Crime",
@@ -13907,8 +13929,8 @@
     "show_date": "1993-05-26",
     "title": "Dead Show/podcast for 1/6/12",
     "artist": "Grateful Dead",
-    "venue": "Cal Expo Amphitheatre",
-    "city": "Sacramento, CA",
+    "venue": "",
+    "city": "Cal Expo Amphitheatre - Sacramento, CA",
     "songs": [
       "Set One:",
       "Samson And Delilah",
@@ -13960,8 +13982,8 @@
     "show_date": "1981-12-06",
     "title": "Dead Show/podcast for 12/09/11",
     "artist": "Grateful Dead",
-    "venue": "Rosemont Horizon Arena",
-    "city": "Rosemont, IL",
+    "venue": "",
+    "city": "Rosemont Horizon Arena - Rosemont, IL",
     "songs": [
       "To Lay Me Down -",
       "Estimated Prophet -",
@@ -13978,8 +14000,8 @@
     "show_date": "1981-12-06",
     "title": "Dead Show/podcast for 12/02/11",
     "artist": "Grateful Dead",
-    "venue": "Rosemont Horizon Arena",
-    "city": "Rosemont, IL",
+    "venue": "",
+    "city": "Rosemont Horizon Arena - Rosemont, IL",
     "songs": [
       "Mama Tried -",
       "Candyman -",
@@ -14047,8 +14069,8 @@
     "show_date": "1993-03-11",
     "title": "Dead Show/podcast for 11/11/11",
     "artist": "Grateful Dead",
-    "venue": "Rosemont Horizon Arena",
-    "city": "Rosemont, IL",
+    "venue": "",
+    "city": "Rosemont Horizon Arena - Rosemont, IL",
     "songs": [
       "Iko Iko",
       "Wave To The Wind",
@@ -14102,8 +14124,8 @@
     "show_date": "1993-03-11",
     "title": "Dead Show/podcast for 10/28/11",
     "artist": "Grateful Dead",
-    "venue": "Rosemont Horizon Arena",
-    "city": "Rosemont, IL",
+    "venue": "",
+    "city": "Rosemont Horizon Arena - Rosemont, IL",
     "songs": [
       "Help On The Way",
       "Slipknot!",
@@ -14177,8 +14199,8 @@
     "show_date": "1990-09-18",
     "title": "Dead Show/podcast for 9 /23/11",
     "artist": "Grateful Dead",
-    "venue": "Madison Square Garden - New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Madison Square Garden - New York, NY",
     "songs": [
       "Promised Land' closer...",
       "To Lay Me Down -"
@@ -14190,8 +14212,8 @@
     "show_date": "1977-09-29",
     "title": "Dead Show/podcast for 9 /16/11",
     "artist": "Grateful Dead",
-    "venue": "Paramount Theatre",
-    "city": "Seattle, WA",
+    "venue": "Venue  Paramount Theatre",
+    "city": "Location  Seattle, WA",
     "songs": [
       "Set Two: Samson And Delilah",
       "Ship Of Fools",
@@ -14211,8 +14233,8 @@
     "show_date": "1977-09-29",
     "title": "Dead Show/podcast for 9 /9/11",
     "artist": "Grateful Dead",
-    "venue": "Paramount Theatre",
-    "city": "Seattle, WA",
+    "venue": "Location:  Paramount Theatre - Seattle, WA",
+    "city": "",
     "songs": [
       "Mississippi Half-Step Uptown Toodeloo",
       "Mama Tried",
@@ -14230,8 +14252,8 @@
     "show_date": "1985-09-03",
     "title": "Dead Show/podcast for 9/2/11",
     "artist": "Grateful Dead",
-    "venue": "Starlight Theater",
-    "city": "Kansas City, MO",
+    "venue": "",
+    "city": "On this holiday weekend I decided to bring you a complete show from one of my very favorite venues - the Starlight Theater in Kansas City, MO",
     "songs": [
       "The Music Never Stopped -",
       "Cryptical Envelopment -",
@@ -14253,7 +14275,7 @@
     "show_date": "1987-08-29",
     "title": "Dead Show/podcast for 8/26/11",
     "artist": "Garcia, Jerry (JGB)",
-    "venue": "French's Camp on the Eel River",
+    "venue": "",
     "city": "Percy, CA",
     "songs": [
       "Set 1: Acoustic Set"
@@ -14265,7 +14287,7 @@
     "show_date": "1968-09-02",
     "title": "Dead Show/podcast for 8/19/11",
     "artist": "Grateful Dead",
-    "venue": "Betty Nelson's Organic Raspberry Farm",
+    "venue": "",
     "city": "Sultan, WA",
     "songs": [
       "One \tDark Star",
@@ -14288,8 +14310,8 @@
     "show_date": "1984-05-07",
     "title": "Dead Show/podcast for 8/12/11",
     "artist": "Grateful Dead",
-    "venue": "Silva Hall - Hult Center for the Performing Arts",
-    "city": "Eugene, OR",
+    "venue": "",
+    "city": "Silva Hall - Hult Center for the Performing Arts - Eugene, OR",
     "songs": [
       "Set One:",
       "Iko Iko",
@@ -14307,8 +14329,8 @@
     "show_date": "1988-07-29",
     "title": "Dead Show/podcast for 8/5/11",
     "artist": "Grateful Dead",
-    "venue": "Laguna Seca Raceway",
-    "city": "Monterey, CA",
+    "venue": "",
+    "city": "Laguna Seca Raceway - Monterey, CA",
     "songs": [
       "Crazy Fingers-",
       "China Cat Sunflower -",
@@ -14327,8 +14349,8 @@
     "show_date": "1988-07-29",
     "title": "Dead Show/podcast for 7/29/11",
     "artist": "Grateful Dead",
-    "venue": "Laguna Seca Raceway",
-    "city": "Monterey, CA",
+    "venue": "",
+    "city": "Laguna Seca Raceway - Monterey, CA",
     "songs": [
       "We'll play set two next week...",
       "Cassidy -"
@@ -14357,8 +14379,8 @@
     "show_date": "1974-05-14",
     "title": "Dead Show/podcast for 7/15/11",
     "artist": "Grateful Dead",
-    "venue": "Adams Field House",
-    "city": "Missoula, MT",
+    "venue": "",
+    "city": "Adams Field House - Missoula, MT",
     "songs": [
       "Scarlet Begonias -"
     ]
@@ -14369,8 +14391,8 @@
     "show_date": "1971-10-19",
     "title": "Dead Show/podcast for 7/8/11",
     "artist": "Grateful Dead",
-    "venue": "Northrup Auditorium",
-    "city": "Minneapolis, MN",
+    "venue": "",
+    "city": "Northrup Auditorium - Minneapolis, MN",
     "songs": [
       "That's It For The Other One -",
       "Uncle John's Band -",
@@ -14384,8 +14406,8 @@
     "show_date": "1971-10-19",
     "title": "Dead Show/podcast for 7/1/11",
     "artist": "Grateful Dead",
-    "venue": "Northrup Auditorium",
-    "city": "Minneapolis, MN",
+    "venue": "",
+    "city": "Northrup Auditorium - Minneapolis, MN",
     "songs": [
       "One More Saturday Night"
     ]
@@ -14396,8 +14418,8 @@
     "show_date": "1989-12-06",
     "title": "Dead Show/podcast for 6/24/11",
     "artist": "Grateful Dead",
-    "venue": "Oakland Coliseum",
-    "city": "Oakland, CA",
+    "venue": "",
+    "city": "Oakland Coliseum - Oakland, CA",
     "songs": [
       "Scarlet Begonias -",
       "Sugar Magnolia -",
@@ -14462,8 +14484,8 @@
     "show_date": "1984-07-14",
     "title": "Dead Show/podcast for 6/3/11",
     "artist": "Grateful Dead",
-    "venue": "Greek Theatre",
-    "city": "Berkeley, CA",
+    "venue": "Location:  Greek Theatre - University of California - Berkeley, CA",
+    "city": "",
     "songs": [
       "Jack Straw",
       "West L.A. Fadeaway",
@@ -14512,8 +14534,8 @@
     "show_date": "1977-05-07",
     "title": "Dead Show/podcast for 5/13/11",
     "artist": "Grateful Dead",
-    "venue": "Boston Garden",
-    "city": "Boston, MA",
+    "venue": "",
+    "city": "Boston Garden - Boston, MA",
     "songs": [
       "Drums"
     ]
@@ -14545,8 +14567,8 @@
     "show_date": "1979-01-15",
     "title": "Dead Show/podcast for 4/29/11",
     "artist": "Grateful Dead",
-    "venue": "Civic Center Arena",
-    "city": "Springfield, MA",
+    "venue": "",
+    "city": "Civic Center Arena - Springfield, MA",
     "songs": [
       "I Need A Miracle -",
       "Terrapin Station -",
@@ -14712,8 +14734,8 @@
     "show_date": "1971-02-18",
     "title": "Dead Show/podcast for 2/18/11",
     "artist": "Grateful Dead",
-    "venue": "Capitol Theater - Port",
-    "city": "Chester, NY",
+    "venue": "",
+    "city": "Capitol Theater - Port Chester, NY",
     "songs": [
       "Greatest Story Ever Told -",
       "Dark Star -",
@@ -14727,8 +14749,8 @@
     "show_date": "1987-05-09",
     "title": "Dead Show podcast for 2/11/11",
     "artist": "Grateful Dead",
-    "venue": "Laguna Seca Raceway",
-    "city": "Monterey, CA",
+    "venue": "",
+    "city": "Laguna Seca Raceway - Monterey, CA",
     "songs": [
       "Drumz-",
       "Touch Of Grey -",
@@ -14748,8 +14770,8 @@
     "show_date": "1987-05-09",
     "title": "Dead Show/podcast for 2/4/11",
     "artist": "Grateful Dead",
-    "venue": "Laguna Seca Raceway",
-    "city": "Monterey, CA",
+    "venue": "",
+    "city": "Laguna Seca Raceway - Monterey, CA",
     "songs": [
       "Sugar Magnolia",
       "Sugaree",
@@ -14769,8 +14791,8 @@
     "show_date": "1973-02-21",
     "title": "Dead Show podcast for 1/28/11",
     "artist": "Grateful Dead",
-    "venue": "Assembly Hall",
-    "city": "Champaign-Urbana, IL",
+    "venue": "",
+    "city": "Assembly Hall - Champaign-Urbana, IL",
     "songs": [
       "China Cat Sunflower -",
       "Truckin' -",
@@ -14803,8 +14825,8 @@
     "show_date": "1989-08-05",
     "title": "Dead Show/podcast for 1/14/11",
     "artist": "Grateful Dead",
-    "venue": "Cal Expo Amphitheater",
-    "city": "Sacramento, CA",
+    "venue": "",
+    "city": "Cal Expo Amphitheater - Sacramento, CA",
     "songs": [
       "One More Saturday Night"
     ]
@@ -14831,8 +14853,8 @@
     "show_date": "1972-12-31",
     "title": "Dead Show podcast for 12/31/10",
     "artist": "Grateful Dead",
-    "venue": "Winterland Arena",
-    "city": "San Francisco, CA",
+    "venue": "Location:  Winterland Arena - San Francisco, CA",
+    "city": "",
     "songs": []
   },
   {
@@ -14853,8 +14875,8 @@
     "show_date": "1973-02-21",
     "title": "Dead Show/podcast for 12/17/10",
     "artist": "Grateful Dead",
-    "venue": "Assembly Hall",
-    "city": "Champaign-Urbana, IL",
+    "venue": "",
+    "city": "Assembly Hall - Champaign-Urbana, IL",
     "songs": []
   },
   {
@@ -14863,8 +14885,8 @@
     "show_date": "1972-11-15",
     "title": "Dead Show podcast for 12/10/10",
     "artist": "Grateful Dead",
-    "venue": "Oklahoma City Music Hall - Oklahoma",
-    "city": "City, OK",
+    "venue": "",
+    "city": "Oklahoma City Music Hall - Oklahoma City, OK",
     "songs": [
       "Not Fade Away -",
       "Goin' Down The Road Feeling Bad -"
@@ -14876,8 +14898,8 @@
     "show_date": "1972-11-15",
     "title": "Dead Show/podcast for 12/3/10",
     "artist": "Grateful Dead",
-    "venue": "Oklahoma City Music Hall - Oklahoma",
-    "city": "City, OK",
+    "venue": "",
+    "city": "Oklahoma City Music Hall - Oklahoma City, OK",
     "songs": [
       "China Cat Sunflower -"
     ]
@@ -14962,8 +14984,8 @@
     "show_date": "1977-08-06",
     "title": "Dead Show/podcast for 10/29/10",
     "artist": "Garcia, Jerry (JGB)",
-    "venue": "Keystone",
-    "city": "Berkeley, CA",
+    "venue": "",
+    "city": "Keystone - Berkeley, CA",
     "songs": []
   },
   {
@@ -14990,8 +15012,8 @@
     "show_date": "1981-09-25",
     "title": "Dead Show/podcast for 10/15/10",
     "artist": "Grateful Dead",
-    "venue": "Stabler Arena",
-    "city": "Bethlehem, PA",
+    "venue": "",
+    "city": "Stabler Arena - Bethlehem, PA",
     "songs": [
       "Might As Well -",
       "Scarlet Begonias -",
@@ -15012,8 +15034,8 @@
     "show_date": "1981-09-25",
     "title": "Dead Show/podcast for 10/8/10",
     "artist": "Grateful Dead",
-    "venue": "Stabler Arena",
-    "city": "Bethlehem, PA",
+    "venue": "",
+    "city": "Stabler Arena - Bethlehem, PA",
     "songs": [
       "Friend Of The Devil -",
       "Peggy-O -",
@@ -15026,8 +15048,8 @@
     "show_date": "1968-03-16",
     "title": "Dead Show/podcast for 10/1/10",
     "artist": "Grateful Dead",
-    "venue": "Carousel Ballroom - San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "Carousel Ballroom - San Francisco, CA",
     "songs": [
       "Dark Star -",
       "China Cat Sunflower -",
@@ -15080,8 +15102,8 @@
     "show_date": "1986-12-15",
     "title": "Dead Show/podcast for 9/10/10",
     "artist": "Grateful Dead",
-    "venue": "Oakland Coliseum Arena",
-    "city": "Oakland, CA",
+    "venue": "",
+    "city": "Oakland Coliseum Arena - Oakland, CA",
     "songs": [
       "Terrapin Station",
       "Drums",
@@ -15096,8 +15118,8 @@
     "show_date": "1986-12-15",
     "title": "Dead Show/podcast for 9/3/10",
     "artist": "Grateful Dead",
-    "venue": "Oakland-Alameda County Coliseum Stadium",
-    "city": "Oakland, CA",
+    "venue": "This week's Deadpod was a request from a brother who just lost a brother - one of his best memories of his late friend was a roadtrip to see this show, and what a show it was! This was the 'comeback' show where Jerry made his return after the coma that nearly took his life in 1986 - no one knew what was going to happen, and what a great choice for a opener in Touch of Grey!  The entire show really sparkles, with a newfound energy and some great new MIDI sounds. To me, the energy of renewal present in this show fits perfectly at this time of year, besides I couldn't turn down a grieving friend.. I hope you enjoy it....",
+    "city": "Oakland-Alameda County Coliseum Stadium Oakland, CA",
     "songs": [
       "Touch Of Grey",
       "C C Rider",
@@ -15118,8 +15140,8 @@
     "show_date": "1985-09-15",
     "title": "Deadshow/podcast for 8/27/10",
     "artist": "Grateful Dead",
-    "venue": "Devore Field - Chula",
-    "city": "Vista, CA",
+    "venue": "",
+    "city": "Devore Field - Chula Vista, CA",
     "songs": [
       "Twilight Zone Theme -",
       "Scarlet Begonias -",
@@ -15137,8 +15159,8 @@
     "show_date": "1985-09-15",
     "title": "Dead Show/podcast for 8/20/10",
     "artist": "Grateful Dead",
-    "venue": "Devore Field - Chula",
-    "city": "Vista, CA",
+    "venue": "",
+    "city": "Devore Field - Chula Vista, CA",
     "songs": [
       "Alabama Getaway -",
       "Mama Tried -",
@@ -15184,8 +15206,8 @@
     "show_date": "1972-07-18",
     "title": "Dead Show/podcast for 7/30/10",
     "artist": "Grateful Dead",
-    "venue": "Roosevelt Stadium - Jersey",
-    "city": "City, NJ",
+    "venue": "",
+    "city": "Roosevelt Stadium - Jersey City, NJ",
     "songs": [
       "Dark Star -",
       "Mississippi Half-Step Uptown Toodeloo -",
@@ -15199,8 +15221,8 @@
     "show_date": "1972-07-18",
     "title": "Dead Show/podcast for 7/23/10",
     "artist": "Grateful Dead",
-    "venue": "Roosevelt Stadium - Jersey",
-    "city": "City, NJ",
+    "venue": "",
+    "city": "Roosevelt Stadium - Jersey City, NJ",
     "songs": [
       "Truckin' -"
     ]
@@ -15223,8 +15245,8 @@
     "show_date": "1981-05-01",
     "title": "Dead Show/podcast for 7/9/10",
     "artist": "Grateful Dead",
-    "venue": "Hampton Coliseum",
-    "city": "Hampton, VA",
+    "venue": "",
+    "city": "Hampton Coliseum - Hampton, VA",
     "songs": [
       "Feel Like A Stranger -",
       "Franklin's Tower -",
@@ -15244,8 +15266,8 @@
     "show_date": "1981-05-01",
     "title": "Dead Show/podcast for 7/2/10",
     "artist": "Grateful Dead",
-    "venue": "Hampton Coliseum",
-    "city": "Hampton, VA",
+    "venue": "",
+    "city": "Hampton Coliseum - Hampton, VA",
     "songs": [
       "Alabama Getaway",
       "Friend Of The Devil -",
@@ -15261,8 +15283,8 @@
     "show_date": "1979-07-07",
     "title": "Dead Show/podcast for 6/25/10",
     "artist": "Grateful Dead",
-    "venue": "Keystone - Palo",
-    "city": "Alto, CA",
+    "venue": "",
+    "city": "Keystone - Palo Alto, CA",
     "songs": [
       "Gaylord Birch drums",
       "- Set 1 -"
@@ -15274,8 +15296,8 @@
     "show_date": "1983-04-26",
     "title": "Dead Show/podcast for 6/18/10",
     "artist": "Grateful Dead",
-    "venue": "the Spectrum",
-    "city": "Philadelphia, PA",
+    "venue": "",
+    "city": "",
     "songs": [
       "from set 2:",
       "Space -",
@@ -15403,8 +15425,8 @@
     "show_date": "1977-04-22",
     "title": "Dead Show/podcast for 04/30/10",
     "artist": "Grateful Dead",
-    "venue": "The Spectrum",
-    "city": "Philadelphia, PA",
+    "venue": "",
+    "city": "The Spectrum - Philadelphia, PA",
     "songs": [
       "Got My Mojo Workin'-",
       "Scarlet Begonias",
@@ -15443,8 +15465,8 @@
     "show_date": "1982-04-03",
     "title": "Dead Show/podcast for 04/16/10",
     "artist": "Grateful Dead",
-    "venue": "Scope",
-    "city": "Norfolk, VA",
+    "venue": "",
+    "city": "Scope - Norfolk, VA",
     "songs": [
       "Eyes Of The World -",
       "Never Trust A Woman -",
@@ -15461,8 +15483,8 @@
     "show_date": "1982-04-03",
     "title": "Dead Show/podcast for 04/09/10",
     "artist": "Grateful Dead",
-    "venue": "Scope",
-    "city": "Norfolk, VA",
+    "venue": "",
+    "city": "Scope - Norfolk, VA",
     "songs": [
       "Peggy-O -",
       "Althea -",
@@ -15475,8 +15497,8 @@
     "show_date": "1971-04-27",
     "title": "Dead Show/podcast for 4/2/10",
     "artist": "Grateful Dead",
-    "venue": "Fillmore East - New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Fillmore East - New York, NY",
     "songs": [
       "Alabama Getaway -",
       "Me And My Uncle -"
@@ -15488,8 +15510,8 @@
     "show_date": "1971-04-27",
     "title": "Dead Show/podcast for 3/26/10",
     "artist": "Grateful Dead",
-    "venue": "Fillmore East - New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Fillmore East - New York, NY",
     "songs": [
       "We don't smoke marijuana in Muskogee"
     ]
@@ -15513,8 +15535,8 @@
     "show_date": "1972-03-05",
     "title": "Dead Show/podcast for 3/12/10",
     "artist": "Grateful Dead",
-    "venue": "Winterland - San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "Winterland - San Francisco, CA",
     "songs": [
       "Not Fade Away-",
       "Goin' Down The Road Feelin' Bad-",
@@ -15527,8 +15549,8 @@
     "show_date": "1972-03-05",
     "title": "Dead Show/podcast for 3/5/10",
     "artist": "Grateful Dead",
-    "venue": "Winterland - San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "Winterland - San Francisco, CA",
     "songs": [
       "China Cat Sunflower -"
     ]
@@ -15584,8 +15606,8 @@
     "show_date": "1973-12-06",
     "title": "Dead Show/podcast for 02/05/2010",
     "artist": "Grateful Dead",
-    "venue": "Public Hall",
-    "city": "Cleveland, OH",
+    "venue": "",
+    "city": "Public Hall - Cleveland, OH",
     "songs": [
       "Dark Star -",
       "Eyes Of The World -"
@@ -15597,8 +15619,8 @@
     "show_date": "1973-12-06",
     "title": "Dead Show/podcast for 01/29/2010",
     "artist": "Grateful Dead",
-    "venue": "Public Hall",
-    "city": "Cleveland, OH",
+    "venue": "",
+    "city": "Public Hall - Cleveland, OH",
     "songs": [
       "China Cat Sunflower -"
     ]
@@ -15679,8 +15701,8 @@
     "show_date": "1986-03-24",
     "title": "Dead Show/podcast for 12/18/09",
     "artist": "Grateful Dead",
-    "venue": "the Spectrum",
-    "city": "Philadelphia, PA",
+    "venue": "",
+    "city": "",
     "songs": [
       "Alabama Getaway",
       "Greatest Story Ever Told",
@@ -15746,8 +15768,8 @@
     "show_date": "1973-11-17",
     "title": "Dead Show/podcast for 11/20/09",
     "artist": "Grateful Dead",
-    "venue": "Los",
-    "city": "Angeles, CA",
+    "venue": "",
+    "city": "Los Angeles, CA",
     "songs": [
       "From Set 2:",
       "Uncle John's Band",
@@ -15872,8 +15894,8 @@
     "show_date": "1991-09-24",
     "title": "Dead Show/podcast for 10/2/09",
     "artist": "Grateful Dead",
-    "venue": "Boston Garden",
-    "city": "Boston, MA",
+    "venue": "",
+    "city": "Boston Garden - Boston, MA",
     "songs": [
       "China Cat Sunflower -",
       "I Know You Rider -",
@@ -15893,8 +15915,8 @@
     "show_date": "1991-09-24",
     "title": "Dead Show/podcast for 9/25/09",
     "artist": "Grateful Dead",
-    "venue": "Boston Garden",
-    "city": "Boston, MA",
+    "venue": "",
+    "city": "Boston Garden - Boston, MA",
     "songs": []
   },
   {
@@ -15924,8 +15946,8 @@
     "show_date": "1980-09-04",
     "title": "Dead Show/podcast for 9/11/09",
     "artist": "Grateful Dead",
-    "venue": "Civic Center",
-    "city": "Providence, RI",
+    "venue": "",
+    "city": "Civic Center - Providence, RI",
     "songs": [
       "Supplication Jam -",
       "Estimated Prophet -",
@@ -15943,8 +15965,8 @@
     "show_date": "1980-09-04",
     "title": "Dead show/podcast for 09/04/09",
     "artist": "Grateful Dead",
-    "venue": "Civic Center",
-    "city": "Providence, RI",
+    "venue": "",
+    "city": "Civic Center - Providence, RI",
     "songs": [
       "China Cat Sunflower -"
     ]
@@ -16018,8 +16040,8 @@
     "show_date": "1972-03-23",
     "title": "Dead show/podcast for 07/24/09",
     "artist": "Grateful Dead",
-    "venue": "Academy of Music - New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Academy of Music - New York, NY",
     "songs": []
   },
   {
@@ -16028,8 +16050,8 @@
     "show_date": "1972-03-23",
     "title": "Dead show/podcast for 07/17/09",
     "artist": "Grateful Dead",
-    "venue": "Academy of Music - New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Academy of Music - New York, NY",
     "songs": [
       "China Cat Sunflower -"
     ]
@@ -16125,8 +16147,8 @@
     "show_date": "1987-08-30",
     "title": "Dead show/podcast for 5/29/09",
     "artist": "Garcia, Jerry (JGB)",
-    "venue": "Greek Theatre",
-    "city": "Berkeley, CA",
+    "venue": "",
+    "city": "Greek Theatre - Berkeley, CA",
     "songs": []
   },
   {
@@ -16135,8 +16157,8 @@
     "show_date": "1969-04-23",
     "title": "Dead show/podcast for 5/22/09",
     "artist": "Grateful Dead",
-    "venue": "The Ark",
-    "city": "Boston, MA",
+    "venue": "",
+    "city": "The Ark - Boston, MA",
     "songs": [
       "Alligator -",
       "Drums -",
@@ -16268,8 +16290,8 @@
     "show_date": "1990-09-07",
     "title": "Dead Show/podcast for 4/10/09",
     "artist": "Grateful Dead",
-    "venue": "Richfield Coliseum",
-    "city": "Richfield, OH",
+    "venue": "",
+    "city": "Richfield Coliseum - Richfield, OH",
     "songs": [
       "China Cat Sunflower -",
       "Truckin' -",
@@ -16286,8 +16308,8 @@
     "show_date": "1990-09-07",
     "title": "Dead Show/podcast for 04/03/09",
     "artist": "Grateful Dead",
-    "venue": "Richfield Coliseum",
-    "city": "Richfield, OH",
+    "venue": "",
+    "city": "Richfield Coliseum - Richfield, OH",
     "songs": [
       "set 1: Cold Rain & Snow -",
       "Me And My Uncle -"
@@ -16320,8 +16342,8 @@
     "show_date": "1982-09-18",
     "title": "Dead Show/podcast for 03/20/09",
     "artist": "Grateful Dead",
-    "venue": "Boston Garden",
-    "city": "Boston, MA",
+    "venue": "",
+    "city": "Boston Garden Boston, MA",
     "songs": [
       "One Jack Straw",
       "Sugaree",
@@ -16340,8 +16362,8 @@
     "show_date": "",
     "title": "Dead Show/podcast for 03/13/09",
     "artist": "Grateful Dead",
-    "venue": "Fillmore East New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Fillmore East New York, NY",
     "songs": [
       "Dark Star",
       "Cryptical Envelopment",
@@ -16358,8 +16380,8 @@
     "show_date": "",
     "title": "Dead Show/podcast for 03/06/09",
     "artist": "Grateful Dead",
-    "venue": "Fillmore East New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Fillmore East New York, NY",
     "songs": [
       "One  [2:48:09 +] [1:15 Intro by Robert Hunter]",
       "China Cat Sunflower",
@@ -16429,8 +16451,8 @@
     "show_date": "1981-04-30",
     "title": "Dead Show/podcast for 02/06/09",
     "artist": "Grateful Dead",
-    "venue": "Greensboro Coliseum",
-    "city": "Greensboro, NC",
+    "venue": "",
+    "city": "Greensboro Coliseum Greensboro, NC",
     "songs": [
       "Two   Shakedown Street",
       "Samson And Delilah",
@@ -16472,8 +16494,8 @@
     "show_date": "1973-09-24",
     "title": "Dead Show/podcast for 1/23/09",
     "artist": "Grateful Dead",
-    "venue": "Pittsburgh Civic Arena",
-    "city": "Pittsburgh, PA",
+    "venue": "",
+    "city": "Pittsburgh Civic Arena Pittsburgh, PA",
     "songs": [
       "Nobody's Fault-",
       "Eyes segment in particular...",
@@ -16496,8 +16518,8 @@
     "show_date": "1970-07-14",
     "title": "Dead Show/podcast for 01/16/09",
     "artist": "Grateful Dead",
-    "venue": "Euphoria Ballroom San",
-    "city": "Rafael, CA",
+    "venue": "",
+    "city": "Euphoria Ballroom San Rafael, CA",
     "songs": [
       "Other One-",
       "Casey Jones",
@@ -16525,8 +16547,8 @@
     "show_date": "1970-07-14",
     "title": "Dead Show/podcast for 1/9/09",
     "artist": "Grateful Dead",
-    "venue": "Euphoria Ballroom San",
-    "city": "Rafael, CA",
+    "venue": "",
+    "city": "Euphoria Ballroom San Rafael, CA",
     "songs": [
       "One  [53:10 +] Don't Ease Me In",
       "% Friend Of The Devil",
@@ -16544,8 +16566,8 @@
     "show_date": "1990-12-30",
     "title": "Dead Show/podcast for 1/2/09",
     "artist": "Grateful Dead",
-    "venue": "Coliseum Arena",
-    "city": "Oakland, CA",
+    "venue": "",
+    "city": "Coliseum Arena Oakland, CA",
     "songs": [
       "Mississippi Half-Step Uptown Toodleloo",
       "Looks Like Rain",
@@ -16563,8 +16585,8 @@
     "show_date": "1990-12-30",
     "title": "Dead Show/podcast for 12/26/08",
     "artist": "Grateful Dead",
-    "venue": "Coliseum Arena",
-    "city": "Oakland, CA",
+    "venue": "",
+    "city": "Coliseum Arena  Oakland, CA",
     "songs": [
       "One  Bertha",
       "Feel Like A Stranger",
@@ -16612,8 +16634,8 @@
     "show_date": "1971-08-04",
     "title": "Dead Show/podcast for 12/05/08",
     "artist": "Grateful Dead",
-    "venue": "Terminal Island Correctional Facility - San",
-    "city": "Pedro, CA",
+    "venue": "",
+    "city": "Terminal Island Correctional Facility - San Pedro, CA",
     "songs": [
       "Not Fade Away-",
       "Goin' Down The Road Feelin' Bad -",
@@ -16648,8 +16670,8 @@
     "show_date": "1971-08-04",
     "title": "Dead Show/podcast for 11/21/08",
     "artist": "Grateful Dead",
-    "venue": "Terminal Island Correctional Facility - San",
-    "city": "Pedro, CA",
+    "venue": "",
+    "city": "Terminal Island Correctional Facility - San Pedro, CA",
     "songs": [
       "Hard To Handle, China Cat Sunflower -",
       "I Know You Rider, Loser"
@@ -16661,8 +16683,8 @@
     "show_date": "1976-06-26",
     "title": "Dead Show/podcast for 11/14/08",
     "artist": "Grateful Dead",
-    "venue": "Auditorium Theatre",
-    "city": "Chicago, IL",
+    "venue": "",
+    "city": "Auditorium Theatre Chicago, IL",
     "songs": [
       "Saint Stephen",
       "The Wheel",
@@ -16688,8 +16710,8 @@
     "show_date": "1976-06-26",
     "title": "Dead Show/podcast for 11/7/08",
     "artist": "Grateful Dead",
-    "venue": "Auditorium Theatre",
-    "city": "Chicago, IL",
+    "venue": "",
+    "city": "Auditorium Theatre Chicago, IL",
     "songs": [
       "One   The Promised Land",
       "Supplication",
@@ -16724,8 +16746,8 @@
     "show_date": "1988-04-09",
     "title": "Dead Show/podcast for 10/24/08",
     "artist": "Grateful Dead",
-    "venue": "The Centrum",
-    "city": "Worcester, MA",
+    "venue": "",
+    "city": "The Centrum Worcester, MA",
     "songs": [
       "One  Big Boss Man",
       "Walkin' Blues",
@@ -16746,8 +16768,8 @@
     "show_date": "1977-10-02",
     "title": "Dead Show/podcast for 10/10/08",
     "artist": "Grateful Dead",
-    "venue": "Paramount Theatre",
-    "city": "Portland, OR",
+    "venue": "",
+    "city": "Paramount Theatre Portland, OR",
     "songs": [
       "Samson And Delilah",
       "Scarlet Begonias",
@@ -16768,8 +16790,8 @@
     "show_date": "1977-10-02",
     "title": "Dead Show/podcast for 10/3/08",
     "artist": "Grateful Dead",
-    "venue": "Paramount Theatre",
-    "city": "Portland, OR",
+    "venue": "",
+    "city": "Paramount Theatre Portland, OR",
     "songs": [
       "One  Casey Jones",
       "Jack Straw",
@@ -16811,8 +16833,8 @@
     "show_date": "1980-05-10",
     "title": "Dead Show/podcast for 9/19/08",
     "artist": "Grateful Dead",
-    "venue": "Hartford Civic Center",
-    "city": "Hartford, CT",
+    "venue": "",
+    "city": "Hartford Civic Center Hartford, CT",
     "songs": [
       "Two   China Cat Sunflower",
       "I Know You Rider",
@@ -16836,8 +16858,8 @@
     "show_date": "1976-09-11",
     "title": "Dead Show/podcast for 9/12/08",
     "artist": "Garcia, Jerry (JGB)",
-    "venue": "Keystone",
-    "city": "Berkeley, CA",
+    "venue": "",
+    "city": "Keystone Berkeley, CA",
     "songs": []
   },
   {
@@ -16856,8 +16878,8 @@
     "show_date": "1974-07-31",
     "title": "Dead Show/podcast for 8/29/08",
     "artist": "Grateful Dead",
-    "venue": "Dillon Stadium",
-    "city": "Hartford, CT",
+    "venue": "",
+    "city": "Dillon Stadium Hartford, CT",
     "songs": [
       "Ship Of Fools",
       "Weather Report Suite Prelude",
@@ -16882,8 +16904,8 @@
     "show_date": "1974-07-31",
     "title": "Dead Show/podcast for 8/22/08",
     "artist": "Grateful Dead",
-    "venue": "Dillon Stadium",
-    "city": "Hartford, CT",
+    "venue": "",
+    "city": "Dillon Stadium Hartford, CT",
     "songs": [
       "One  Scarlet Begonias",
       "Me And My Uncle",
@@ -16910,8 +16932,8 @@
     "show_date": "1975-09-28",
     "title": "Dead Show/podcast for 8/15/08",
     "artist": "Grateful Dead",
-    "venue": "Lindley Meadows - Golden Gate Park San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "Lindley Meadows - Golden Gate Park San Francisco, CA",
     "songs": [
       "One  Help On The Way",
       "Slipknot!",
@@ -16936,8 +16958,8 @@
     "show_date": "1972-08-25",
     "title": "Dead Show/podcast for 8/08/08",
     "artist": "Grateful Dead",
-    "venue": "Berkeley Community Theatre",
-    "city": "Berkeley, CA",
+    "venue": "I am honored to be able to keep bringing this music to you, my friends, and I hope as you listen to this set and reflect on Garcia that you feel the light of the love which is the Grateful Dead fill you.",
+    "city": "Berkeley Community Theatre Berkeley, CA",
     "songs": [
       "One  (1) Cold Rain And Snow",
       "Black Throated Wind",
@@ -16963,8 +16985,8 @@
     "show_date": "1979-09-02",
     "title": "Dead Show/podcast for 8/01/08",
     "artist": "Grateful Dead",
-    "venue": "Augusta Civic Center",
-    "city": "Augusta, ME",
+    "venue": "",
+    "city": "Augusta Civic Center Augusta, ME",
     "songs": [
       "Samson And Delilah",
       "Ramble On Rose",
@@ -16984,8 +17006,8 @@
     "show_date": "1979-09-02",
     "title": "Dead Show/podcast for 7/25/08",
     "artist": "Grateful Dead",
-    "venue": "Augusta Civic Center",
-    "city": "Augusta, ME",
+    "venue": "",
+    "city": "Augusta Civic Center Augusta, ME",
     "songs": [
       "One  Jack Straw",
       "They Love Each Other",
@@ -17026,8 +17048,8 @@
     "show_date": "1978-10-20",
     "title": "Dead Show/podcast for 7/11/08",
     "artist": "Grateful Dead",
-    "venue": "Winterland Arena San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "Winterland Arena San Francisco, CA",
     "songs": [
       "One  New Minglewood Blues",
       "They Love Each Other",
@@ -17047,8 +17069,8 @@
     "show_date": "1990-07-04",
     "title": "Dead Show/podcast for 7/04/08",
     "artist": "Grateful Dead",
-    "venue": "Sandstone Amphitheatre Bonner",
-    "city": "Springs, KS",
+    "venue": "",
+    "city": "Sandstone Amphitheatre Bonner Springs, KS",
     "songs": [
       "Two   Victim Or The Crime",
       "Foolish Heart",
@@ -17090,8 +17112,8 @@
     "show_date": "1971-04-04",
     "title": "Dead Show/podcast for 6/20/08",
     "artist": "Grateful Dead",
-    "venue": "Manhattan Center New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "Manhattan Center New York, NY",
     "songs": [
       "One  Bertha",
       "Me And My Uncle",
@@ -17110,8 +17132,8 @@
     "show_date": "1977-05-04",
     "title": "Dead Show/podcast for 6/13/08",
     "artist": "Grateful Dead",
-    "venue": "The Palladium New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "The Palladium New York, NY",
     "songs": [
       "Playin'-",
       "Comes a Time-",
@@ -17132,8 +17154,8 @@
     "show_date": "1977-05-04",
     "title": "Dead Show podcast for 6/6/08",
     "artist": "Grateful Dead",
-    "venue": "The Palladium New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "The Palladium New York, NY",
     "songs": [
       "One  Mississippi Half-Step Uptown Toodeloo",
       "Big River",
@@ -17192,8 +17214,8 @@
     "show_date": "1972-11-15",
     "title": "Dead Show/podcast for 5/16/08",
     "artist": "Grateful Dead",
-    "venue": "Oklahoma City Music Hall - Oklahoma",
-    "city": "City, OK",
+    "venue": "",
+    "city": "Oklahoma City Music Hall - Oklahoma City, OK",
     "songs": [
       "Goin' Down the Road Feelin' Bad -",
       "Not Fade Away"
@@ -17205,8 +17227,8 @@
     "show_date": "1980-08-29",
     "title": "Dead show/podcast for 5/9/08",
     "artist": "Grateful Dead",
-    "venue": "The Spectrum",
-    "city": "Philadelphia, PA",
+    "venue": "",
+    "city": "The Spectrum - Philadelphia, PA",
     "songs": [
       "d2t01 - Greatest Story Ever Told -",
       "Althea, Let It Grow -",
@@ -17226,8 +17248,8 @@
     "show_date": "",
     "title": "Dead show/podcast for 5/02/08",
     "artist": "Grateful Dead",
-    "venue": "The Spectrum",
-    "city": "Philadelphia, PA",
+    "venue": "This week marks the start of KOPN's spring pledge drive, so I am asking for your help in allowing our community radio station, and this podcast, to remain on the air. Any contribution, no matter what, will help to keep us going. I'm working on securing some CDs to use as premiums to thank you for your support, and will announce them when and if they're finalized. But in the meantime, I hope you'll consider clicking on the contribute now button and helping us out with your contribution. If you prefer to phone in your support, you can reach the station at (573) 874-1139. Thanks!!",
+    "city": "The Spectrum Philadelphia, PA",
     "songs": [
       "One  Alabama Getaway",
       "The Promised Land",
@@ -17249,8 +17271,8 @@
     "show_date": "1982-10-10",
     "title": "Dead show/podcast for 4/25/08",
     "artist": "Grateful Dead",
-    "venue": "Frost Amphitheatre - Stanford University Palo",
-    "city": "Alto, CA",
+    "venue": "",
+    "city": "Frost Amphitheatre - Stanford University Palo Alto, CA",
     "songs": [
       "Crazy Fingers",
       "Lost Sailor",
@@ -17273,8 +17295,8 @@
     "show_date": "1982-10-10",
     "title": "Dead Show/podcast for 4/18/08",
     "artist": "Grateful Dead",
-    "venue": "Frost Amphitheatre - Stanford University Palo",
-    "city": "Alto, CA",
+    "venue": "",
+    "city": "Frost Amphitheatre - Stanford University Palo Alto, CA",
     "songs": [
       "One  New Minglewood Blues",
       "Sugaree",
@@ -17294,8 +17316,8 @@
     "show_date": "1969-04-18",
     "title": "Dead show/podcast for 4/11/08",
     "artist": "Grateful Dead",
-    "venue": "Purdue University",
-    "city": "Lafayette, IN",
+    "venue": "",
+    "city": "Purdue University Lafayette, IN",
     "songs": [
       "One  [1:35:39 +]",
       "Hard To Handle",
@@ -17340,8 +17362,8 @@
     "show_date": "1973-09-21",
     "title": "Dead show podcast for 3/28/08",
     "artist": "Grateful Dead",
-    "venue": "The Spectrum",
-    "city": "Philadelphia, PA",
+    "venue": "This week a truly great show suggested by one of my wonderful listeners in honor of the passing of Martin Fierro - The Spectrum, September 21st, 1973. Although Martin doesn't play sax until the second set I couldn't bare to not play the entire show so we will get to his performance next week. This week, I hope you enjoy the wonderful and well-played first set, including such gems as \"Here Comes Sunshine\", and \"Black Peter\". Jerry and Keith in particular shine in this first set.....",
+    "city": "The Spectrum  Philadelphia, PA",
     "songs": [
       "One Big Railroad Blues",
       "Me And My Uncle",
@@ -17362,8 +17384,8 @@
     "show_date": "1982-08-08",
     "title": "Dead Show podcast for 03/21/08",
     "artist": "Grateful Dead",
-    "venue": "Alpine Valley Music Theatre East",
-    "city": "Troy, WI",
+    "venue": "",
+    "city": "Venue  Alpine Valley Music Theatre East Troy, WI",
     "songs": [
       "Scarlet Begonias",
       "Fire On The Mountain",
@@ -17385,8 +17407,8 @@
     "show_date": "1982-08-08",
     "title": "Dead Show/podcast for 03/14/08",
     "artist": "Grateful Dead",
-    "venue": "Alpine Valley Music Theatre East",
-    "city": "Troy, WI",
+    "venue": "",
+    "city": "Alpine Valley Music Theatre East Troy, WI",
     "songs": [
       "One  Alabama Getaway",
       "The Promised Land",
@@ -17408,8 +17430,8 @@
     "show_date": "1989-08-06",
     "title": "Dead Show/podcast for 3/7/08",
     "artist": "Grateful Dead",
-    "venue": "Cal Expo Amphitheatre",
-    "city": "Sacramento, CA",
+    "venue": "",
+    "city": "Cal Expo Amphitheatre Sacramento, CA",
     "songs": [
       "Samson And Delilah  % Ship Of Fools",
       "Man Smart (Woman Smarter)",
@@ -17429,8 +17451,8 @@
     "show_date": "1989-08-06",
     "title": "Dead Show/podcast for 02/29/08",
     "artist": "Grateful Dead",
-    "venue": "Cal Expo Amphitheatre",
-    "city": "Sacramento, CA",
+    "venue": "",
+    "city": "Cal Expo Amphitheatre Sacramento, CA",
     "songs": [
       "Fire that opens the 2nd set..",
       "One  Good Times",
@@ -17474,8 +17496,8 @@
     "show_date": "1973-06-10",
     "title": "Dead Show/podcast for 02/15/08",
     "artist": "Ratdog",
-    "venue": "RFK Stadium",
-    "city": "Washington, DC",
+    "venue": "",
+    "city": "RFK Stadium Washington, DC",
     "songs": [
       "Wharf Rat",
       "Truckin'",
@@ -17513,8 +17535,8 @@
     "show_date": "1973-06-10",
     "title": "Dead Show/podcast for 02/01/08",
     "artist": "Grateful Dead",
-    "venue": "RFK Stadium",
-    "city": "Washington, DC",
+    "venue": "",
+    "city": "RFK Stadium Washington, DC",
     "songs": [
       "One  Morning Dew",
       "Beat It On Down The Line",
@@ -17536,8 +17558,8 @@
     "show_date": "1978-10-17",
     "title": "Dead Show/podcast for 01/25/08",
     "artist": "Grateful Dead",
-    "venue": "Winterland Arena San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "Winterland Arena San Francisco, CA",
     "songs": [
       "Scarlet Begonias",
       "Fire On The Mountain",
@@ -17556,8 +17578,8 @@
     "show_date": "1978-10-17",
     "title": "Dead Show/podcast for 01/18/08",
     "artist": "Garcia, Jerry (JGB)",
-    "venue": "Winterland Arena San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "Winterland Arena San Francisco, CA",
     "songs": [
       "One  The Promised Land",
       "Friend Of The Devil",
@@ -17575,8 +17597,8 @@
     "show_date": "1970-01-10",
     "title": "Dead Show/podcast for 1/11/08",
     "artist": "Grateful Dead",
-    "venue": "Golden Hall - San Diego Community Concourse San",
-    "city": "Diego, CA",
+    "venue": "",
+    "city": "Golden Hall - San Diego Community Concourse San Diego, CA",
     "songs": [
       "I especially enjoy the Mason's Children-",
       "One [85:55 +] [0:59 \"Clear the fuckin aisles\"]",
@@ -17612,8 +17634,8 @@
     "show_date": "1982-12-27",
     "title": "Dead Show/podcast for 12/28/07",
     "artist": "Grateful Dead",
-    "venue": "Oakland Auditorium",
-    "city": "Oakland, CA",
+    "venue": "",
+    "city": "Oakland Auditorium Oakland, CA",
     "songs": [
       "Fire",
       "Scarlet Begonias",
@@ -17643,8 +17665,8 @@
     "show_date": "1989-12-27",
     "title": "Dead Show/podcast for 12/14/07",
     "artist": "Grateful Dead",
-    "venue": "Oakland-Alameda County Coliseum Arena",
-    "city": "Oakland, CA",
+    "venue": "",
+    "city": "Oakland-Alameda County Coliseum Arena Oakland, CA",
     "songs": [
       "Crazy Fingers-",
       "One  Cold Rain And Snow",
@@ -17673,8 +17695,8 @@
     "show_date": "1975-11-08",
     "title": "Dead Show/podcast for 12/07/07",
     "artist": "Garcia, Jerry (JGB)",
-    "venue": "Keystone",
-    "city": "Berkeley, CA",
+    "venue": "",
+    "city": "Keystone Berkeley, CA",
     "songs": [
       "Let's Spend The Night Together"
     ]
@@ -17706,8 +17728,8 @@
     "show_date": "",
     "title": "Dead Show/podcast for 11/23/07",
     "artist": "Grateful Dead",
-    "venue": "and John Kahn 4-21-1982 Beacon Theater, New",
-    "city": "York, NY",
+    "venue": "",
+    "city": "",
     "songs": [
       "Set 1  (47 minutes)",
       "Set 2  (41 minutes)",
@@ -17760,8 +17782,8 @@
     "show_date": "1976-09-27",
     "title": "Dead Show/podcast for 11/02/07",
     "artist": "Grateful Dead",
-    "venue": "Community War Memorial Auditorium",
-    "city": "Rochester, NY",
+    "venue": "",
+    "city": "Venue  Community War Memorial Auditorium Rochester, NY",
     "songs": [
       "Slipknot!",
       "Drums",
@@ -17824,8 +17846,8 @@
     "show_date": "1984-06-26",
     "title": "Dead Show/podcast for 10/12/07",
     "artist": "Grateful Dead",
-    "venue": "Merriweather Post Pavilion",
-    "city": "Columbia, MD",
+    "venue": "",
+    "city": "Merriweather Post Pavilion Columbia, MD",
     "songs": [
       "He's Gone",
       "Drums [7:41#]",
@@ -17846,8 +17868,8 @@
     "show_date": "1984-06-26",
     "title": "Dead Show/podcast for 10/05/07",
     "artist": "Grateful Dead",
-    "venue": "Merriweather Post Pavilion",
-    "city": "Columbia, MD",
+    "venue": "",
+    "city": "Merriweather Post Pavilion Columbia, MD",
     "songs": [
       "One  Casey Jones",
       "Feel Like A Stranger",
@@ -17867,8 +17889,8 @@
     "show_date": "1969-04-13",
     "title": "Dead Show/podcast for 09/28/07",
     "artist": "Grateful Dead",
-    "venue": "Ballroom - University of Colorado",
-    "city": "Boulder, CO",
+    "venue": "",
+    "city": "Ballroom - University of Colorado Boulder, CO",
     "songs": [
       "Good Morning Little Schoolgirl",
       "Morning Dew   % Dark Star",
@@ -17882,8 +17904,8 @@
     "show_date": "1991-03-21",
     "title": "Dead Show/podcast for 09/21/07",
     "artist": "Grateful Dead",
-    "venue": "Capital Centre",
-    "city": "Landover, MD",
+    "venue": "",
+    "city": "Capital Centre - Landover, MD",
     "songs": [
       "from set one: Bird Song",
       "Two  Victim Or The Crime",
@@ -17902,8 +17924,8 @@
     "show_date": "1973-12-04",
     "title": "Dead Show/podcast for 09/14/07",
     "artist": "Grateful Dead",
-    "venue": "Cincinnati Gardens",
-    "city": "Cincinnati, OH",
+    "venue": "",
+    "city": "Cincinnati Gardens Cincinnati, OH",
     "songs": [
       "Truckin'",
       "Stella Blue",
@@ -17921,8 +17943,8 @@
     "show_date": "1973-12-04",
     "title": "Dead Show/podcast for 09/07/07",
     "artist": "Grateful Dead",
-    "venue": "Cincinnati Gardens",
-    "city": "Cincinnati, OH",
+    "venue": "",
+    "city": "Cincinnati Gardens Cincinnati, OH",
     "songs": [
       "One  Johnny B. Goode",
       "Sugaree",
@@ -17993,8 +18015,8 @@
     "show_date": "1971-10-22",
     "title": "Dead Show/podcast for 08/10/07",
     "artist": "Grateful Dead",
-    "venue": "Auditorium Theatre",
-    "city": "Chicago, IL",
+    "venue": "Venue  Auditorium Theatre",
+    "city": "Location  Chicago, IL",
     "songs": [
       "other one-",
       "cryptical-",
@@ -18017,8 +18039,8 @@
     "show_date": "1993-06-26",
     "title": "Dead Show/podcast for 08/03/07",
     "artist": "Grateful Dead",
-    "venue": "RFK Stadium",
-    "city": "Washington, DC",
+    "venue": "",
+    "city": "RFK Stadium Washington, DC",
     "songs": [
       "From Set 2: Iko Iko",
       "Terrapin Station",
@@ -18035,8 +18057,8 @@
     "show_date": "1973-03-28",
     "title": "Dead Show/podcast for 07/27/07",
     "artist": "Grateful Dead",
-    "venue": "Springfield Civic Center Arena",
-    "city": "Springfield, MA",
+    "venue": "",
+    "city": "Springfield Civic Center Arena Springfield, MA",
     "songs": [
       "One  Cumberland Blues [#1:28]",
       "% Here Comes Sunshine",
@@ -18059,8 +18081,8 @@
     "show_date": "1973-03-28",
     "title": "Dead Show/podcast for 07/20/07",
     "artist": "Grateful Dead",
-    "venue": "Springfield Civic Center Arena",
-    "city": "Springfield, MA",
+    "venue": "",
+    "city": "Springfield Civic Center Arena Springfield, MA",
     "songs": [
       "One Cumberland Blues [#1:28]",
       "% Here Comes Sunshine",
@@ -18083,8 +18105,8 @@
     "show_date": "1985-06-28",
     "title": "Dead Show podcast for 07/20/07",
     "artist": "Grateful Dead",
-    "venue": "Hershey Park Stadium",
-    "city": "Hershey, PA",
+    "venue": "",
+    "city": "Hershey Park Stadium Hershey, PA",
     "songs": [
       "Estimated Prophet",
       "Terrapin Station",
@@ -18103,8 +18125,8 @@
     "show_date": "1985-06-28",
     "title": "Dead Show/podcast for 07/13/07",
     "artist": "Grateful Dead",
-    "venue": "Hershey Park Stadium",
-    "city": "Hershey, PA",
+    "venue": "",
+    "city": "Hershey Park Stadium Hershey, PA",
     "songs": [
       "One  Cold Rain And Snow",
       "The Promised Land",
@@ -18124,8 +18146,8 @@
     "show_date": "1971-11-15",
     "title": "Dead Show/podcast for 07/06/07",
     "artist": "Grateful Dead",
-    "venue": "Austin Municipal Auditorium",
-    "city": "Austin, TX",
+    "venue": "",
+    "city": "Austin Municipal Auditorium Austin, TX",
     "songs": [
       "Goin' Down The Road Feelin' Bad-",
       "Not Fade Away jams.",
@@ -18154,8 +18176,8 @@
     "show_date": "1978-07-08",
     "title": "Dead Show/podcast for 06/29/07",
     "artist": "Grateful Dead",
-    "venue": "Red Rocks Amphitheatre",
-    "city": "Morrison, CO",
+    "venue": "",
+    "city": "Red Rocks Amphitheatre Morrison, CO",
     "songs": [
       "Set 2 (cont): Estimated Prophet",
       "The Other One",
@@ -18176,8 +18198,8 @@
     "show_date": "1978-07-08",
     "title": "Dead Show/podcast for 06/22/07",
     "artist": "Grateful Dead",
-    "venue": "Red Rocks Amphitheatre",
-    "city": "Morrison, CO",
+    "venue": "",
+    "city": "Red Rocks Amphitheatre Morrison, CO",
     "songs": [
       "One  Bertha",
       "Good Lovin'",
@@ -18198,8 +18220,8 @@
     "show_date": "1988-07-31",
     "title": "Dead Show/podcast for 06/15/07",
     "artist": "Grateful Dead",
-    "venue": "Laguna Seca Raceway",
-    "city": "Monterey, CA",
+    "venue": "",
+    "city": "Laguna Seca Raceway Monterey, CA",
     "songs": [
       "Two   Hell In A Bucket",
       "Foolish Heart",
@@ -18220,8 +18242,8 @@
     "show_date": "1988-07-31",
     "title": "Dead Show/podcast for 06/08/07",
     "artist": "Grateful Dead",
-    "venue": "Laguna Seca Raceway",
-    "city": "Monterey, CA",
+    "venue": "",
+    "city": "Laguna Seca Raceway Monterey, CA",
     "songs": [
       "One  Mississippi Half-Step Uptown Toodleloo",
       "Little Red Rooster [1]",
@@ -18250,8 +18272,8 @@
     "show_date": "1970-05-01",
     "title": "Dead Show/podcast for 06/01/07",
     "artist": "Grateful Dead",
-    "venue": "Alfred State College",
-    "city": "Alfred, NY",
+    "venue": "",
+    "city": "Alfred State College - Alfred, NY",
     "songs": [
       "One: The Race Is On",
       "Wake Up Little Susie  % New Speedway Boogie",
@@ -18274,8 +18296,8 @@
     "show_date": "1991-03-27",
     "title": "Dead Show podcast for 05/25/07",
     "artist": "Grateful Dead",
-    "venue": "Nassau Veterans Memorial Coliseum",
-    "city": "Uniondale, NY",
+    "venue": "",
+    "city": "Nassau Veterans Memorial Coliseum Uniondale, NY",
     "songs": [
       "Scarlet Begonias",
       "Fire On The Mountain",
@@ -18295,8 +18317,8 @@
     "show_date": "1982-09-14",
     "title": "Dead Show/podcast for 05/18/07",
     "artist": "Grateful Dead",
-    "venue": "University Hall - University of Virginia",
-    "city": "Charlottesville, VA",
+    "venue": "",
+    "city": "University Hall - University of Virginia Charlottesville, VA",
     "songs": [
       "China Cat Sunflower",
       "I Know You Rider",
@@ -18320,8 +18342,8 @@
     "show_date": "1977-05-08",
     "title": "Dead Show/podcast for 05/11/07",
     "artist": "Grateful Dead",
-    "venue": "Barton Hall - Cornell University",
-    "city": "Ithaca, NY",
+    "venue": "",
+    "city": "Barton Hall - Cornell University Ithaca, NY",
     "songs": [
       "Two   Scarlet Begonias",
       "Fire On The Mountain",
@@ -18388,8 +18410,8 @@
     "show_date": "1978-04-14",
     "title": "Dead Show/podcast for 04/20/07",
     "artist": "Grateful Dead",
-    "venue": "Cassell Coliseum",
-    "city": "Blacksburg, VA",
+    "venue": "I received some requests for this show from folks at VT - not something I could disregard.  Its a solid show and I hope that it provides some catharsis as Grateful Dead music always has for me.. Here's hoping for just a little light....",
+    "city": "Cassell Coliseum - Virginia Polytechnic Institute and State University Blacksburg, VA",
     "songs": [
       "Two   Samson And Delilah",
       "Ship Of Fools",
@@ -18431,8 +18453,8 @@
     "show_date": "1979-11-09",
     "title": "Dead Show/podcast for 04/06/07",
     "artist": "Grateful Dead",
-    "venue": "Buffalo Auditorium",
-    "city": "Buffalo, NY",
+    "venue": "",
+    "city": "Buffalo Auditorium Buffalo, NY",
     "songs": [
       "Estimated Prophet",
       "He's Gone",
@@ -18451,8 +18473,8 @@
     "show_date": "1979-11-09",
     "title": "Dead Show/podcast for 03/30/07",
     "artist": "Grateful Dead",
-    "venue": "Buffalo Auditorium",
-    "city": "Buffalo, NY",
+    "venue": "",
+    "city": "Buffalo Auditorium Buffalo, NY",
     "songs": [
       "One  Alabama Getaway",
       "The Promised Land",
@@ -18474,8 +18496,8 @@
     "show_date": "1973-11-11",
     "title": "Dead Show/podcast for 03/23/07",
     "artist": "Grateful Dead",
-    "venue": "Winterland Arena San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "Winterland Arena San Francisco, CA",
     "songs": [
       "Mississippi Half-Step Uptown Toodeloo",
       "Big River",
@@ -18495,8 +18517,8 @@
     "show_date": "1973-11-11",
     "title": "Dead Show/podcast for 03/16/07",
     "artist": "Grateful Dead",
-    "venue": "Winterland Arena San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "Winterland Arena San Francisco, CA",
     "songs": [
       "One  The Promised Land",
       "Bertha",
@@ -18535,8 +18557,8 @@
     "show_date": "1993-08-21",
     "title": "Dead Show/podcast for 03/02/07",
     "artist": "Grateful Dead",
-    "venue": "Autzen Stadium - University of Oregon",
-    "city": "Eugene, OR",
+    "venue": "",
+    "city": "Autzen Stadium - University of Oregon Eugene, OR",
     "songs": [
       "China Cat Sunflower",
       "I Know You Rider",
@@ -18557,8 +18579,8 @@
     "show_date": "1978-12-28",
     "title": "Dead Show/podcast for 02/23/07",
     "artist": "Grateful Dead",
-    "venue": "Golden Hall - San Diego Community Concourse San",
-    "city": "Diego, CA",
+    "venue": "",
+    "city": "Golden Hall - San Diego Community Concourse San Diego, CA",
     "songs": [
       "Shakedown Street",
       "From The Heart Of Me",
@@ -18578,8 +18600,8 @@
     "show_date": "1978-12-28",
     "title": "Dead Show/podcast for 02/16/07",
     "artist": "Grateful Dead",
-    "venue": "Golden Hall - San Diego Community Concourse San",
-    "city": "Diego, CA",
+    "venue": "",
+    "city": "Golden Hall - San Diego Community Concourse San Diego, CA",
     "songs": [
       "One:  Sugaree",
       "Beat It On Down The Line",
@@ -18622,8 +18644,8 @@
     "show_date": "1981-08-30",
     "title": "Dead Show/podcast for 02/02/07",
     "artist": "Grateful Dead",
-    "venue": "Compton Terrace Amphitheatre",
-    "city": "Tempe, AZ",
+    "venue": "",
+    "city": "Compton Terrace Amphitheatre Tempe, AZ",
     "songs": [
       "One  Mississippi Half-Step Uptown Toodeloo",
       "Franklin's Tower",
@@ -18686,8 +18708,8 @@
     "show_date": "1978-04-06",
     "title": "Dead Show/podcast for 01/12/07",
     "artist": "Grateful Dead",
-    "venue": "Curtis Hixon Hall",
-    "city": "Tampa, FL",
+    "venue": "",
+    "city": "Curtis Hixon Hall - Tampa, FL",
     "songs": [
       "It Must Have Been The Roses",
       "Estimated Prophet",
@@ -18736,8 +18758,8 @@
     "show_date": "1969-11-02",
     "title": "Dead Show/podcast for 12/15/06",
     "artist": "Grateful Dead",
-    "venue": "San",
-    "city": "Francisco, CA",
+    "venue": "",
+    "city": "San Francisco, CA",
     "songs": [
       "Dark Star",
       "The Eleven",
@@ -18750,8 +18772,8 @@
     "show_date": "1980-11-30",
     "title": "Dead Show/podcast for 12/08/06",
     "artist": "Grateful Dead",
-    "venue": "Fox Theater",
-    "city": "Atlanta, GA",
+    "venue": "",
+    "city": "Fox Theater Atlanta, GA",
     "songs": [
       "Lost Sailor",
       "Saint Of Circumstance",
@@ -18767,8 +18789,8 @@
     "show_date": "1991-02-21",
     "title": "Dead Show/podcast for 12/01/06",
     "artist": "Grateful Dead",
-    "venue": "Oakland-Alameda County Coliseum Stadium",
-    "city": "Oakland, CA",
+    "venue": "",
+    "city": "Oakland-Alameda County Coliseum Stadium Oakland, CA",
     "songs": [
       "One  Help On The Way",
       "Slipknot!",
@@ -18784,8 +18806,8 @@
     "show_date": "1980-10-13",
     "title": "Dead Show/podcast for 11/24/06",
     "artist": "Garcia/Grisman",
-    "venue": "Warfield Theatre",
-    "city": "San Francisco, CA",
+    "venue": "I hope all of you had a wonderful thanksgiving! I like to play some acoustic music around the holidays, so I'm going to continue that tradition this week with some tasty selections from both the Grateful Dead and Jerry Garcia playing with David Grisman..",
+    "city": "Warfield Theatre San Francisco, CA",
     "songs": [
       "Date 10/13/80 - Monday On The Road Again",
       "Bird Song",
@@ -18850,8 +18872,8 @@
     "show_date": "1971-10-31",
     "title": "Dead Show/podcast for 10/27/06",
     "artist": "Grateful Dead",
-    "venue": "Ohio Theater",
-    "city": "Columbus, OH",
+    "venue": "It's almost Halloween! So I thought that I'd bring you some Halloween Dead..",
+    "city": "Ohio Theater Columbus, OH",
     "songs": [
       "Deal",
       "Loser",
@@ -18871,8 +18893,8 @@
     "show_date": "1973-06-24",
     "title": "Dead Show/podcast for 10/20/06",
     "artist": "Grateful Dead",
-    "venue": "Memorial Coliseum",
-    "city": "Portland, OR",
+    "venue": "",
+    "city": "Memorial Coliseum Portland, OR",
     "songs": [
       "Dark Star",
       "Eyes Of The World",
