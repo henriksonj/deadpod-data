@@ -1,5 +1,29 @@
 [
   {
+    "url": "https://deadshow.blogspot.com/2026/10/dead-showpodcast-for-10226.html",
+    "published": "2026-10-02",
+    "show_date": "1972-10-09",
+    "title": "Dead Show/podcast for 10/2/26",
+    "artist": "Grateful Dead",
+    "venue": "Winterland Arena",
+    "city": "San Francisco, CA",
+    "songs": [
+      "The Promised Land",
+      "Deal",
+      "Me And My Uncle",
+      "Tennessee Jed",
+      "Black Throated Wind",
+      "Friend Of The Devil",
+      "Beat It On Down The Line",
+      "Loser",
+      "El Paso [2:08#]",
+      "Box Of Rain [#6:24]",
+      "China Cat Sunflower",
+      "I Know You Rider",
+      "Sugaree [7:02#]"
+    ]
+  },
+  {
     "url": "https://deadshow.blogspot.com/2026/09/dead-showpodcast-for-92526.html",
     "published": "2026-09-25",
     "show_date": "1991-09-08",
@@ -103,7 +127,7 @@
     "show_date": "1972-08-22",
     "title": "Dead Show/podcast for 8/21/26",
     "artist": "Grateful Dead",
-    "venue": "Berkeley Community Theater",
+    "venue": "",
     "city": "y Theater in Berkeley, CA",
     "songs": [
       "Bertha [#5:11]",
@@ -148,7 +172,7 @@
     "show_date": "1982-08-06",
     "title": "Dead Show/podcast for 8/7/26",
     "artist": "Grateful Dead",
-    "venue": "St. Paul Civic Center Arena",
+    "venue": "",
     "city": "This one comes to us from St. Paul, MN",
     "songs": [
       "Bertha",
