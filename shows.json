@@ -21,7 +21,8 @@
       "Jack Straw",
       "Don't Ease Me In",
       "Mexicali Blues",
-      "Box Of Rain"
+      "Box Of Rain",
+      "Playing In The Band"
     ]
   },
   {
@@ -111,7 +112,8 @@
       "Box Of Rain [#6:24]",
       "China Cat Sunflower",
       "I Know You Rider",
-      "Sugaree [7:02#]"
+      "Sugaree [7:02#]",
+      "Playing In The Band [20:36#]"
     ]
   },
   {
@@ -458,6 +460,7 @@
       "Shakedown Street",
       "Samson And Delilah",
       "Terrapin Station",
+      "Playing In The Band",
       "Drums [4:#36]",
       "Space**",
       "Not Fade Away",
@@ -747,6 +750,7 @@
     "songs": [
       "Scarlet Begonias",
       "Fire On The Mountain",
+      "Playing In The Band",
       "Terrapin Station",
       "Drums",
       "Space",
@@ -845,7 +849,9 @@
       "Uncle John's Band'",
       "Goin Down the Road Feelin' Bad'.",
       "Mississippi Half-Step Uptown Toodeloo",
+      "Playing In The Band",
       "Uncle John's Band",
+      "Playing In The Band",
       "Not Fade Away",
       "Goin' Down The Road Feeling Bad",
       "One More Saturday Night"
@@ -913,6 +919,7 @@
       "space.",
       "Maggie's Farm",
       "Cumberland Blues",
+      "Playing In The Band",
       "Terrapin Station",
       "Drums [6:52#]",
       "Space",
@@ -1281,6 +1288,7 @@
       "Deal",
       "El Paso [2:51#]",
       "Tennessee Jed [#2:33]",
+      "Playing In The Band",
       "Big Railroad Blues",
       "Cumberland Blues",
       "Stella Blue",
@@ -1300,6 +1308,7 @@
       "A fine Scarlet",
       "Scarlet Begonias",
       "Fire On The Mountain",
+      "Playing In The Band",
       "He's Gone",
       "Drums %",
       "Space %",
@@ -1371,6 +1380,7 @@
       "Next Time You See Me",
       "China Cat Sunflower",
       "I Know You Rider",
+      "Playing In The Band",
       "Loser",
       "The Rub",
       "Me And My Uncle",
@@ -1397,10 +1407,12 @@
       "Drums [2:#35]",
       "Good Lovin'",
       "Terrapin Station",
+      "Playing In The Band",
       "Franklin's Tower",
       "Space",
       "China Doll",
       "Not Fade Away",
+      "Playing In The Band [3:31#]",
       "One More Saturday Night"
     ]
   },
@@ -1449,6 +1461,7 @@
     "city": "",
     "songs": [
       "China Cat Sunflower",
+      "Playing In The Band",
       "Big Boss Man",
       "Black Peter",
       "Bertha"
@@ -1593,7 +1606,8 @@
       "Dark Star",
       "Drums",
       "Space",
-      "Dark Star"
+      "Dark Star",
+      "Playing In The Band"
     ]
   },
   {
@@ -1655,7 +1669,8 @@
       "El Paso",
       "China Cat Sunflower",
       "Jam",
-      "I Know You Rider"
+      "I Know You Rider",
+      "Playing In The Band"
     ]
   },
   {
@@ -1724,7 +1739,8 @@
     "city": "St. Paul, MN",
     "songs": [
       "Wave That Flag",
-      "They Love Each Other"
+      "They Love Each Other",
+      "Playing In The Band"
     ]
   },
   {
@@ -1908,6 +1924,7 @@
       "China Cat Sunflower",
       "I Know You Rider",
       "Next Time You See Me",
+      "Playing In The Band",
       "Loser",
       "One More Saturday Night (1) [4:23#]"
     ]
@@ -1956,7 +1973,8 @@
       "Beat It On Down The Line",
       "Brown Eyed Women",
       "Big River",
-      "Deal"
+      "Deal",
+      "Playing In The Band"
     ]
   },
   {
@@ -1972,6 +1990,7 @@
       "Greatest Story Ever Told",
       "Ship Of Fools",
       "Terrapin Station",
+      "Playing In The Band",
       "Drums",
       "Space",
       "Lost Sailor",
@@ -2131,6 +2150,7 @@
       "Tennessee Jed",
       "Looks Like Rain",
       "Don't Ease Me In",
+      "Playing In The Band",
       "Drums",
       "Not Fade Away",
       "Sugar Magnolia",
@@ -2196,12 +2216,14 @@
       "Man Smart (Woman Smarter)",
       "West L.A. Fadeaway *",
       "Far From Me",
+      "Playing In The Band",
       "Drums",
       "Space",
       "The Wheel",
       "The Other One",
       "Truckin'",
       "Black Peter",
+      "Playing In The Band",
       "One More Saturday Night",
       "Dupree's Diamond Blues"
     ]
@@ -2251,6 +2273,7 @@
     "city": "Hollywood, CA",
     "songs": [
       "Bertha",
+      "Playing In The Band",
       "Loser",
       "El Paso",
       "Cumberland Blues",
@@ -2305,6 +2328,7 @@
     "city": "Portland, OR",
     "songs": [
       "One (continued)",
+      "Playing In The Band",
       "Casey Jones",
       "The Promised Land",
       "He's Gone",
@@ -2345,6 +2369,7 @@
     "venue": "",
     "city": "Alpine Valley Music Theatre - East Troy, WI",
     "songs": [
+      "Playing In The Band",
       "China Doll",
       "Space",
       "Drums",
@@ -2415,6 +2440,7 @@
       "Slip",
       "Help On The Way",
       "Slipknot",
+      "Playing In The Band",
       "Dancin' In The Streets",
       "This space is geting Hot!"
     ]
@@ -2442,6 +2468,7 @@
     "songs": [
       "Scarlet Begonias",
       "Fire On The Mountain",
+      "Playing In The Band",
       "Drums",
       "Space",
       "Not Fade Away",
@@ -2480,10 +2507,12 @@
     "venue": "Greek Theatre - University of California",
     "city": "Berkeley, CA",
     "songs": [
+      "Playing In The Band",
       "Uncle John's Band",
       "Drums",
       "Space",
       "The Wheel",
+      "Playing In The Band",
       "Black Peter"
     ]
   },
@@ -2518,6 +2547,7 @@
     "venue": "Irvine Meadows Amphitheatre",
     "city": "Irvine, CA",
     "songs": [
+      "Playing In The Band",
       "Crazy Fingers",
       "Uncle John's Band",
       "Drums",
@@ -2743,6 +2773,7 @@
       "I Know You Rider",
       "Me And My Uncle",
       "Bertha",
+      "Playing In The Band",
       "Casey Jones"
     ]
   },
@@ -2826,6 +2857,7 @@
       "I Know You Rider",
       "Way To Go Home",
       "Corrina",
+      "Playing In The Band Reprise",
       "Uncle John's Band",
       "Drums",
       "Space",
@@ -2854,6 +2886,7 @@
     "city": "Oakland Coliseum Arena - Oakland, CA",
     "songs": [
       "Iko Iko",
+      "Playing In The Band",
       "Crazy Fingers",
       "Uncle John's Band",
       "Drums [11:#05]",
@@ -3056,6 +3089,7 @@
       "Ship Of Fools",
       "Samson And Delilah",
       "Terrapin Station",
+      "Playing In The Band [10:#49]",
       "Drums",
       "Space",
       "Wharf Rat [11:#33]",
@@ -3156,6 +3190,7 @@
       "Tennessee Jed",
       "Mexicali Blues",
       "Deal",
+      "Playing In The Band",
       "Loser",
       "Johnny B. Goode"
     ]
@@ -3327,9 +3362,11 @@
     "venue": "Tower Theatre",
     "city": "Upper Darby, PA",
     "songs": [
+      "Playing In The Band",
       "Space Jam",
       "Drums",
       "The Wheel",
+      "Playing In The Band Reprise",
       "Samson And Delilah  (6) %",
       "Eyes Of The World",
       "Dancing In The Street",
@@ -3485,6 +3522,7 @@
       "El Paso",
       "China Cat Sunflower",
       "I Know You Rider",
+      "Playing In The Band",
       "We'll enjoy set 2 next week..."
     ]
   },
@@ -3672,6 +3710,7 @@
     "venue": "",
     "city": "",
     "songs": [
+      "Playing In The Band",
       "Uncle John's Band",
       "Terrapin Station",
       "Jam",
@@ -3759,6 +3798,7 @@
       "Fire On The Mountain",
       "Samson And Delilah",
       "Terrapin Station",
+      "Playing In The Band [9:#04]",
       "Drums [1:26#]",
       "Space",
       "Black Peter",
@@ -3980,7 +4020,9 @@
     "city": "Evanston, IL",
     "songs": [
       "Morning Dew",
+      "Playing In The Band",
       "Uncle John's Band [8:#09]",
+      "Playing In The Band",
       "Mississippi Half-Step Uptown Toodeloo",
       "He's Gone",
       "Truckin'"
@@ -4298,6 +4340,7 @@
       "Eyes Of The World",
       "Looks Like Rain",
       "Crazy Fingers",
+      "Playing In The Band",
       "Playing Reprise",
       "Drums",
       "Space",
@@ -4370,7 +4413,9 @@
       "U.S. Blues",
       "Big River",
       "Ship Of Fools",
+      "Playing In The Band",
       "Wharf Rat",
+      "Playing In The Band",
       "Eyes Of The World",
       "Sugar Magnolia",
       "Casey Jones",
@@ -4551,6 +4596,7 @@
     "songs": [
       "Samson And Delilah",
       "Ship Of Fools",
+      "Playing In The Band",
       "Foolish Heart",
       "Drums",
       "Space",
@@ -4631,9 +4677,11 @@
       "From The Heart Of Me",
       "Big Railroad Blues",
       "Terrapin Station [12:#01]",
+      "Playing In The Band",
       "Drums [6:37#]",
       "The Wheel",
       "Shakedown Street",
+      "Playing In The Band",
       "Sugar Magnolia",
       "One More Saturday Night"
     ]
@@ -4699,6 +4747,7 @@
       "Me And My Uncle",
       "Hard To Handle",
       "Bertha",
+      "Playing In The Band",
       "Bird Song",
       "Big Boss Man",
       "Cryptical Envelopment",
@@ -4906,6 +4955,7 @@
       "The set starts with a wonderful Scarlet",
       "Scarlet Begonias",
       "Fire On The Mountain",
+      "Playing In The Band",
       "Drums",
       "Space",
       "Not Fade Away",
@@ -5028,6 +5078,7 @@
       "I Know You Rider",
       "Samson And Delilah",
       "Ship Of Fools",
+      "Playing In The Band",
       "Drums [7:#23]",
       "Space",
       "Stella Blue",
@@ -5199,6 +5250,7 @@
     "songs": [
       "China Cat Sunflower",
       "I Know You Rider",
+      "Playing In The Band",
       "Uncle John's Band",
       "Drums",
       "Space",
@@ -5346,6 +5398,7 @@
     "venue": "Stanley Theater",
     "city": "Jersey City, NJ",
     "songs": [
+      "Playing In The Band",
       "You Win Again",
       "El Paso",
       "Mississippi Half-Step Uptown Toodeloo",
@@ -5395,6 +5448,7 @@
       "Big Railroad Blues",
       "Samson And Delilah",
       "Terrapin Station",
+      "Playing In The Band",
       "Drums [7:#34]",
       "Space",
       "Truckin'",
@@ -5428,6 +5482,7 @@
       "I Know You Rider",
       "He's Gone",
       "Truckin'",
+      "Playing In The Band [20:19#]",
       "Loser",
       "Me And My Uncle",
       "Mississippi Half-Step Uptown Toodeloo",
@@ -5553,6 +5608,7 @@
     "songs": [
       "Victim Or The Crime",
       "Crazy Fingers",
+      "Playing In The Band",
       "Uncle John's Band",
       "Drums",
       "Space",
@@ -5611,12 +5667,14 @@
       "Cold Rain And Snow",
       "Samson And Delilah",
       "Ship Of Fools",
+      "Playing In The Band",
       "Eyes Of The World",
       "Drums",
       "Space",
       "The Other One",
       "Black Peter",
       "Sugar Magnolia",
+      "Playing In The Band",
       "Comments     (1) Earthquake Space"
     ]
   },
@@ -5762,7 +5820,8 @@
       "Big River",
       "Loose Lucy",
       "El Paso",
-      "Row Jimmy"
+      "Row Jimmy",
+      "Playing In The Band"
     ]
   },
   {
@@ -5879,6 +5938,7 @@
       "Sugaree",
       "Man Smart (Woman Smarter)",
       "Ship Of Fools",
+      "Playing In The Band",
       "Drums",
       "Space",
       "Not Fade Away",
@@ -5916,6 +5976,7 @@
       "Other One'.",
       "Good Lovin'",
       "Brokedown Palace",
+      "Playing In The Band",
       "Run Rudolph Run",
       "Deal",
       "Sugar Magnolia",
@@ -6074,6 +6135,7 @@
       "Big River",
       "China Cat Sunflower",
       "I Know You Rider",
+      "Playing In The Band",
       "Casey Jones"
     ]
   },
@@ -6108,6 +6170,7 @@
     "venue": "Auditorium Theatre",
     "city": "Chicago, IL",
     "songs": [
+      "Playing In The Band",
       "Cumberland Blues",
       "Comes A Time",
       "Mexicali Blues",
@@ -6230,7 +6293,8 @@
       "Jack Straw",
       "Bird Song",
       "El Paso",
-      "Deal"
+      "Deal",
+      "Playing In The Band"
     ]
   },
   {
@@ -6264,9 +6328,11 @@
     "songs": [
       "Scarlet Begonias",
       "Fire On The Mountain",
+      "Playing In The Band",
       "Drums",
       "Space [4:#56]",
       "I Need A Miracle",
+      "Playing In The Band Reprise",
       "Morning Dew",
       "Encore     Not Fade Away",
       "Brokedown Palace"
@@ -6332,6 +6398,7 @@
       "Deal",
       "El Paso [2:51#]",
       "Tennessee Jed [#2:33]",
+      "Playing In The Band",
       "Big Railroad Blues",
       "Cumberland Blues",
       "Stella Blue",
@@ -6456,6 +6523,7 @@
       "Peggy-O",
       "Far From Me",
       "Uncle John's Band",
+      "Playing In The Band",
       "Drums",
       "Space",
       "Truckin'",
@@ -6528,7 +6596,9 @@
       "Greatest Story Ever Told",
       "Cumberland Blues",
       "Dire Wolf",
-      "Uncle John's Band"
+      "Playing In The Band",
+      "Uncle John's Band",
+      "Playing In The Band"
     ]
   },
   {
@@ -6776,6 +6846,7 @@
       "You Win Again",
       "Jack Straw",
       "Next Time You See Me",
+      "Playing In The Band",
       "Comes A Time",
       "Me And Bobby McGee",
       "CaseyJones"
@@ -6949,6 +7020,7 @@
       "Fire On The Mountain",
       "Samson And Delilah",
       "Terrapin Station [11:#19]",
+      "Playing In The Band",
       "Drums",
       "Space",
       "Black Peter [9:#43]",
@@ -6990,6 +7062,7 @@
       "Foolish Heart",
       "Man Smart (Woman Smarter)",
       "Uncle John's Band",
+      "Playing In The Band",
       "Drums",
       "Space",
       "I Need A Miracle",
@@ -7103,6 +7176,7 @@
       "Gimme Some Lovin'",
       "Drums",
       "Space",
+      "Playing In the Band Reprise",
       "Bertha",
       "Good Lovin'",
       "Casey Jones"
@@ -7168,7 +7242,8 @@
       "Beat It On Down The Line",
       "Tennessee Jed [#6:35]",
       "Jack Straw",
-      "Sugaree"
+      "Sugaree",
+      "Playing In The Band"
     ]
   },
   {
@@ -7186,6 +7261,7 @@
       "Ship Of Fools",
       "Samson And Delilah",
       "Terrapin Station",
+      "Playing In The Band [10:#49]",
       "Drums",
       "Space",
       "Wharf Rat [11:#33]",
@@ -7481,6 +7557,7 @@
       "Why Don't We Do It In The Road",
       "China Cat Sunflower",
       "I Know You Rider",
+      "Playing In The Band",
       "Uncle John's Band",
       "Don't Need Love",
       "Drums [4:39#]",
@@ -7513,6 +7590,7 @@
     "songs": [
       "Feel Like A Stranger",
       "Bird Song",
+      "Playing In The Band",
       "Drums [7:#42]",
       "Space",
       "Not Fade Away",
@@ -7592,6 +7670,7 @@
       "Cumberland Blues",
       "Jack Straw",
       "Don't Ease Me In",
+      "Playing In The Band [20:#53]",
       "Casey Jones"
     ]
   },
@@ -7879,7 +7958,8 @@
       "China Cat Sunflower",
       "I Know You Rider",
       "Looks Like Rain",
-      "Don't Ease Me In"
+      "Don't Ease Me In",
+      "Playing In The Band"
     ]
   },
   {
@@ -7895,6 +7975,7 @@
       "Hell In A Bucket",
       "China Cat Sunflower",
       "I Know You Rider",
+      "Playing In The Band",
       "Don't Need Love",
       "Drums",
       "Space",
@@ -8237,6 +8318,7 @@
       "Big Railroad Blues",
       "Me And Bobby McGee",
       "Loser",
+      "Playing In The Band",
       "Tennessee Jed",
       "You Win Again",
       "Mexicali Blues",
@@ -8395,6 +8477,7 @@
     "city": "Madison Square Garden New York, NY",
     "songs": [
       "Two - [1:46:11]",
+      "Playing In The Band",
       "Ship Of Fools",
       "Playing Jam",
       "Uncle John's Band",
@@ -8490,6 +8573,7 @@
       "Bird Song",
       "Beat It On Down The Line",
       "Tennessee Jed",
+      "Playing In The Band",
       "Casey Jones"
     ]
   },
@@ -8540,7 +8624,9 @@
       "Eyes Of The World",
       "The Promised Land",
       "Deal",
-      "Scarlet Begonias"
+      "Playing In The Band",
+      "Scarlet Begonias",
+      "Playing In The Band"
     ]
   },
   {
@@ -8670,7 +8756,8 @@
       "Mexicali Blues",
       "Sugaree",
       "The Race Is On",
-      "It Must Have Been The Roses"
+      "It Must Have Been The Roses",
+      "Playing In The Band"
     ]
   },
   {
@@ -8686,6 +8773,7 @@
       "Fire On The Mountain",
       "Feel Like A Stranger",
       "Terrapin Station",
+      "Playing In The Band",
       "Drums [5:#31]",
       "Space",
       "Black Peter",
@@ -8811,7 +8899,8 @@
       "Jam",
       "I Know You Rider",
       "Beat It On Down The Line",
-      "They Love Each Other"
+      "They Love Each Other",
+      "Playing In The Band [18:#38]"
     ]
   },
   {
@@ -8873,6 +8962,7 @@
       "Good Lovin'",
       "Candyman",
       "Sunrise",
+      "Playing In The Band",
       "Drums [11:#41]",
       "Not Fade Away",
       "Morning Dew",
@@ -8971,6 +9061,7 @@
       "Loser",
       "Looks Like Rain",
       "Tennessee Jed",
+      "Playing In The Band",
       "You Win Again",
       "Cumberland Blues",
       "Chinatown Shuffle",
@@ -9076,9 +9167,11 @@
       "Touch Of Grey",
       "Man Smart (Woman Smarter)",
       "Uncle John's Band",
+      "Playing In The Band",
       "Drums",
       "Space",
       "The Wheel",
+      "Playing In The Band",
       "China Doll",
       "Sugar Magnolia",
       "U.S. Blues"
@@ -9168,6 +9261,7 @@
       "Good Lovin'",
       "Scarlet Begonias",
       "Fire On The Mountain",
+      "Playing In The Band",
       "Shakedown Street",
       "Drums",
       "Ollin Arrageed",
@@ -9359,6 +9453,7 @@
       "Me And Bobby McGee",
       "Next Time You See Me",
       "Bertha",
+      "Playing In The Band",
       "Sing Me Back Home",
       "Me And My Uncle",
       "China Cat Sunflower",
@@ -9432,6 +9527,7 @@
       "Brown Eyed Women",
       "Mexicali Blues",
       "Comes A Time",
+      "Playing In The Band",
       "One More Saturday Night",
       "Casey Jones"
     ]
@@ -9448,11 +9544,13 @@
       "Bertha",
       "Good Lovin'",
       "Candyman",
+      "Playing In The Band [16:#56]",
       "Drums",
       "The Wheel",
       "Wharf Rat",
       "Around And Around",
-      "Brokedown Palace"
+      "Brokedown Palace",
+      "Playing In The Band [4:13#]"
     ]
   },
   {
@@ -9506,6 +9604,7 @@
     "venue": "",
     "city": "Madison Square Garden New York, NY",
     "songs": [
+      "Playing In The Band",
       "Crazy Fingers",
       "Me And My Uncle",
       "Big River",
@@ -9620,7 +9719,9 @@
       "Space",
       "Drums",
       "Space",
+      "Playing In The Band",
       "Comes A Time",
+      "Playing In The Band",
       "Around And Around",
       "Alabama Getaway",
       "Johnny B. Goode"
@@ -9694,6 +9795,7 @@
       "Big Railroad Blues",
       "El Paso",
       "Tennessee Jed",
+      "Playing In The Band",
       "Loser",
       "Beat It On Down The Line",
       "Casey Jones [#5:27]"
@@ -10115,6 +10217,7 @@
       "Iko Iko",
       "Corrina",
       "Lazy River Road",
+      "Playing In The Band",
       "Drums",
       "Space",
       "The Other One",
@@ -10594,6 +10697,7 @@
       "Jack Straw",
       "China Cat Sunflower",
       "I Know You Rider",
+      "Playing In The Band",
       "Black Peter",
       "Candyman [#6:11]",
       "One More Saturday Night",
@@ -10708,6 +10812,7 @@
       "I Know You Rider",
       "Jack Straw",
       "Tennessee Jed",
+      "Playing In The Band",
       "Casey Jones [#4:48]"
     ]
   },
@@ -11180,10 +11285,12 @@
       "Samson And Delilah",
       "Sunrise",
       "Terrapin Station",
+      "Playing In The Band",
       "Drums",
       "Space",
       "Saint Stephen",
       "Not Fade Away",
+      "Playing In The Band",
       "Passenger"
     ]
   },
@@ -11248,7 +11355,9 @@
       "New Minglewood Blues",
       "Don't Ease Me In",
       "Iko Iko",
+      "Playing In The Band",
       "Terrapin Station",
+      "Playing In The Band",
       "Drums",
       "Space",
       "The Other One",
@@ -11337,12 +11446,14 @@
     "venue": "",
     "city": "",
     "songs": [
+      "Playing In The Band",
       "Hully Gully",
       "The Wheel",
       "Samson And Delilah",
       "Gloria",
       "Turn On Your Love Light",
       "Goin' Down The Road Feeling Bad",
+      "Playing In The Band",
       "Black Peter",
       "Sugar Magnolia"
     ]
@@ -11377,11 +11488,13 @@
     "songs": [
       "Shakedown Street -",
       "Crazy Fingers -",
+      "Playing In The Band -",
       "She Belongs To Me -",
       "Drums -",
       "Space -",
       "The Other One-",
       "Wharf Rat -",
+      "Playing In The Band -",
       "Gimme Some Lovin' -"
     ]
   },
@@ -11577,6 +11690,7 @@
       "Big Railroad Blues",
       "Big Boss Man",
       "Brokedown Palace",
+      "Playing In The Band",
       "Hard To Handle",
       "Cumberland Blues",
       "Loser",
@@ -11772,6 +11886,7 @@
     "city": "",
     "songs": [
       "Scarlet Begonias -",
+      "Playing in the Band -",
       "Uncle John's Band -",
       "Drums -",
       "Space -",
@@ -11985,7 +12100,8 @@
       "Loser",
       "China Cat Sunflower-",
       "I Know You Rider",
-      "The Rub"
+      "The Rub",
+      "Playing In The Band"
     ]
   },
   {
@@ -12359,7 +12475,8 @@
       "Beat It On Down The Line",
       "Deal",
       "The Race Is On",
-      "To Lay Me Down"
+      "To Lay Me Down",
+      "Playing In The Band"
     ]
   },
   {
@@ -12647,6 +12764,7 @@
       "Playin-",
       "Scarlet Begonias",
       "Fire On The Mountain",
+      "Playing In The Band",
       "Uncle John's Band",
       "Drums",
       "Space",
@@ -12859,6 +12977,7 @@
       "Sugaree",
       "El Paso",
       "Loser",
+      "Playing In The Band",
       "Brown Eyed Women",
       "Beat It On Down The Line",
       "Brokedown Palace",
@@ -12987,6 +13106,7 @@
     "city": "Oakland, CA",
     "songs": [
       "Uncle John's Band",
+      "Playing In The Band",
       "Terrapin Station",
       "Drums",
       "Space",
@@ -13268,7 +13388,8 @@
       "Dark Star Jam -",
       "Drums -",
       "Space -",
-      "China Doll -"
+      "China Doll -",
+      "Playing In The Band -"
     ]
   },
   {
@@ -13321,6 +13442,7 @@
     "songs": [
       "Scarlet Begonias -",
       "Fire on the Mountain -",
+      "Playing in the Band -",
       "Dark Star -",
       "Terrapin Station -",
       "Drums -",
@@ -13515,6 +13637,7 @@
     "venue": "Buckeye Lake Music Center, Hebron, OH (Friday, 6/11/93)",
     "city": "",
     "songs": [
+      "Playing in the Band -",
       "Uncle John's Band -",
       "Corina -",
       "Drums -",
@@ -13708,6 +13831,7 @@
     "city": "Shoreline Amphitheatre - Mountain View, CA",
     "songs": [
       "China Cat Sunflower",
+      "Playing In The Band",
       "Terrapin Station",
       "Drums",
       "Space",
@@ -13764,7 +13888,8 @@
       "Me And Bobby McGee",
       "Candyman",
       "Me And My Uncle",
-      "Sugaree"
+      "Sugaree",
+      "Playing In The Band"
     ]
   },
   {
@@ -14254,6 +14379,7 @@
     "venue": "",
     "city": "Rupp Arena - Lexington, KY",
     "songs": [
+      "Playing In The Band -",
       "Drums -",
       "Jam -",
       "Stella Blue -",
@@ -14466,9 +14592,11 @@
       "Box Of Rain",
       "Victim Or The Crime",
       "Crazy Fingers",
+      "Playing In The Band",
       "Drums",
       "Space",
       "Corrina",
+      "Playing In The Band Reprise",
       "China Doll",
       "Around And Around",
       "Liberty"
@@ -14659,6 +14787,7 @@
       "Man Smart (Woman Smarter)",
       "Ship Of Fools",
       "Supplication",
+      "Playing In The Band Reprise",
       "Don't Need Love",
       "Drums",
       "Space",
@@ -14887,6 +15016,7 @@
       "China Cat Sunflower -",
       "Crazy Fingers -",
       "I Know You Rider -",
+      "Playing In The Band -",
       "Drums -",
       "Space -",
       "The Wheel -",
@@ -15060,6 +15190,7 @@
       "Set Two:",
       "Scarlet Begonias",
       "Fire On The Mountain",
+      "Playing In The Band",
       "Uncle John's Band",
       "Drums",
       "Space",
@@ -15123,8 +15254,10 @@
     "songs": [
       "I Need A Miracle -",
       "Terrapin Station -",
+      "Playing In The Band -",
       "Drums -",
-      "Space -"
+      "Space -",
+      "Playing In The Band -"
     ]
   },
   {
@@ -15360,6 +15493,7 @@
     "city": "",
     "songs": [
       "Hey Pocky Way",
+      "Playing In The Band",
       "I Know You Rider",
       "Terrapin Station",
       "Drums",
@@ -15509,6 +15643,7 @@
       "Drums",
       "Dark Star",
       "Morning Dew",
+      "Playing In The Band",
       "Deal",
       "The Promised Land",
       "Brokedown Palace",
@@ -15656,11 +15791,13 @@
     "venue": "",
     "city": "Oakland Coliseum Arena - Oakland, CA",
     "songs": [
+      "Playing In The Band",
       "Terrapin Station",
       "Drums",
       "Space",
       "Truckin'",
-      "Wharf Rat"
+      "Wharf Rat",
+      "Playing In The Band"
     ]
   },
   {
@@ -15948,6 +16085,7 @@
       "Hey Pocky Way",
       "Samson And Delilah",
       "Ship Of Fools",
+      "Playing In The Band",
       "Eyes Of The World",
       "Drums",
       "Space",
@@ -16007,7 +16145,8 @@
       "El Paso",
       "Tennessee Jed",
       "Estimated Prophet",
-      "Peggy-O"
+      "Peggy-O",
+      "Playing In The Band"
     ]
   },
   {
@@ -16189,6 +16328,7 @@
       "Me And My Uncle -",
       "Set Two",
       "Uncle John's Band -",
+      "Playing In The Band -",
       "Comes A Time -",
       "[ Drums -",
       "Space -",
@@ -16323,6 +16463,7 @@
     "city": "Los Angeles, CA",
     "songs": [
       "From Set 2:",
+      "Playing In The Band",
       "Uncle John's Band",
       "Morning Dew",
       "Uncle John's Band",
@@ -16341,12 +16482,14 @@
       "\"Meet The Jones Gang\"",
       "Samson & Delilah -",
       "Cold Rain & Snow",
+      "Playing in the Band -",
       "Eyes of the World -",
       "Estimated Prophet -",
       "The Other One -",
       "Drums -",
       "Iko Iko -",
       "Stella Blue -",
+      "Playing in the Band",
       "Johnny B. Goode"
     ]
   },
@@ -16413,6 +16556,7 @@
     "songs": [
       "China Cat-",
       "17.47",
+      "Playing in the Band-",
       "03.70",
       "China Doll-",
       "55.08",
@@ -16534,7 +16678,9 @@
       "Uncle John's",
       "space segment.",
       "Crazy Fingers",
+      "Playing In The Band",
       "Uncle John's Band",
+      "Playing In The Band",
       "Drums",
       "Space",
       "ENCORE It's All Over Now, Baby Blue"
@@ -16662,9 +16808,11 @@
     "songs": [
       "Gimme Some Lovin' -",
       "China Cat Sunflower -",
+      "Playing In The Band -",
       "Drums -",
       "Space -",
       "The Wheel -",
+      "Playing In The Band -",
       "China Doll -"
     ]
   },
@@ -16847,6 +16995,7 @@
       "China Cat Sunflower -",
       "Truckin' -",
       "Crazy Fingers -",
+      "Playing In The Band -",
       "Drums -",
       "Space -",
       "I Need A Miracle -",
@@ -16877,6 +17026,7 @@
     "songs": [
       "Samson And Delilah",
       "Uncle John's Band",
+      "Playing In The Band",
       "Drums",
       "Space",
       "Throwing Stones",
@@ -17123,6 +17273,7 @@
       "Mississippi Half-Step Uptown Toodleloo",
       "Looks Like Rain",
       "Crazy Fingers",
+      "Playing In The Band",
       "Drums",
       "Space",
       "Terrapin Station",
@@ -17239,6 +17390,7 @@
     "songs": [
       "Saint Stephen",
       "The Wheel",
+      "Playing In The Band Reprise  % Samson And Delilah  % Crazy Fingers",
       "Stella Blue",
       "Around And Around",
       "One More Saturday Night",
@@ -17326,6 +17478,7 @@
       "Scarlet Begonias",
       "Fire On The Mountain",
       "Funiculi Funicula",
+      "Playing In The Band",
       "Drums",
       "The Wheel",
       "Truckin'",
@@ -17524,6 +17677,7 @@
       "Friend Of The Devil",
       "The Promised Land",
       "Bird Song",
+      "Playing In The Band",
       "Bertha",
       "Two  Truckin'",
       "Jam",
@@ -17670,6 +17824,7 @@
       "Me And My Uncle",
       "Next Time You See Me",
       "Morning Dew",
+      "Playing In The Band",
       "Loser",
       "Easy Wind",
       "Me And Bobby McGee",
@@ -17696,7 +17851,9 @@
       "Scarlet Begonias",
       "Fire On The Mountain",
       "Terrapin Station",
-      "Comes A Time"
+      "Playing In The Band [18:#12]",
+      "Comes A Time",
+      "Playing In The Band"
     ]
   },
   {
@@ -17727,6 +17884,7 @@
     "city": "Madison Square Garden New York, NY",
     "songs": [
       "Two   The Weight",
+      "Playing In The Band",
       "Crazy Fingers",
       "Uncle John's Band",
       "Drums",
@@ -17825,6 +17983,7 @@
     "venue": "",
     "city": "Frost Amphitheatre - Stanford University Palo Alto, CA",
     "songs": [
+      "Playing In The Band",
       "Crazy Fingers",
       "Lost Sailor",
       "Saint Of Circumstance",
@@ -17926,7 +18085,8 @@
       "El Paso",
       "Loose Lucy",
       "Jack Straw",
-      "Black Peter"
+      "Black Peter",
+      "Playing In The Band"
     ]
   },
   {
@@ -18100,7 +18260,8 @@
       "The Race Is On",
       "Row Jimmy",
       "El Paso",
-      "Bird Song"
+      "Bird Song",
+      "Playing In The Band"
     ]
   },
   {
@@ -18191,6 +18352,7 @@
       "Fire",
       "Scarlet Begonias",
       "Fire On The Mountain",
+      "Playing In The Band",
       "Drums",
       "Space",
       "The Wheel",
@@ -18229,6 +18391,7 @@
       "Just Like Tom Thumb's Blues  % Bird Song",
       "The Promised Land",
       "Two  Iko Iko",
+      "Playing In The Band",
       "Crazy Fingers",
       "Uncle John's Band",
       "Drums [11:#05]",
@@ -18324,7 +18487,8 @@
       "Me And Bobby McGee",
       "Tennessee Jed",
       "Cumberland Blues",
-      "Row Jimmy"
+      "Row Jimmy",
+      "Playing In The Band"
     ]
   },
   {
@@ -18388,7 +18552,8 @@
       "China Cat Sunflower",
       "I Know You Rider",
       "Me And Bobby McGee",
-      "Good Lovin'"
+      "Good Lovin'",
+      "Playing In The Band"
     ]
   },
   {
@@ -18594,6 +18759,7 @@
     "city": "RFK Stadium Washington, DC",
     "songs": [
       "From Set 2: Iko Iko",
+      "Playing In The Band",
       "Terrapin Station",
       "Drums",
       "Space",
@@ -19250,6 +19416,7 @@
       "Loser",
       "Me And Bobby McGee [5:#40]",
       "Cumberland Blues",
+      "Playing In The Band",
       "Tennessee Jed"
     ]
   },
@@ -19384,12 +19551,14 @@
       "set 2: The Mighty Quinn (Quinn The Eskimo)",
       "Dancing In The Street",
       "Black Muddy River",
+      "Playing In The Band Jam",
       "I Need A Miracle",
       "Space",
       "Truckin'",
       "Smokestack Lightnin'",
       "Comes A Time",
-      "Around And Around"
+      "Around And Around",
+      "Playing In The Band"
     ]
   },
   {
@@ -19404,6 +19573,7 @@
       "from set 2: Ramble On Rose",
       "Passenger",
       "Terrapin Station",
+      "Playing In The Band  The Wheel",
       "Wharf Rat"
     ]
   },
@@ -19427,6 +19597,7 @@
     "city": "Ohio Theater Columbus, OH",
     "songs": [
       "Deal",
+      "Playing In The Band",
       "Loser",
       "El Paso",
       "Tennessee Jed",
@@ -19464,6 +19635,7 @@
       "Beat It On Down The Line",
       "Brown Eyed Women",
       "Chinatown Shuffle",
+      "Playing In The Band",
       "You Win Again",
       "It Hurts Me Too",
       "He's Gone",
